@@ -423,7 +423,25 @@ Config.Products = {
             info = {},
             type = 'item',
             slot = 1,
-        }
+        },
+    },
+    ["fishing"] = {
+        [1] = {
+            name = 'fishingrod',
+            price = 500,
+            amount = 500,
+            info = {},
+            type = 'item',
+            slot = 1,
+        },
+        [2] = {
+            name = 'fishingbait',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 1,
+        },
     },
 }
 
@@ -803,5 +821,14 @@ Config.Locations = {
         },
         ["products"] = Config.Products["mustapha"],
         ["showblip"] = true,
-    },    
+    },
+    ["fishing"] = {
+        ["label"] = "Fishing",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(1300.804, 4318.823, 38.158)
+        },
+        ["products"] = Config.Products["fishing"],
+        ["showblip"] = true,
+    },
 }
