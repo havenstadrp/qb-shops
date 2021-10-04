@@ -814,10 +814,10 @@ Config.Locations = {
         ["showblip"] = true,
     },   
     ["mustapha"] = {
-        ["label"] = "Rental Mustapha",
+        ["label"] = "Blublub Shop",
         ["type"] = "leisure",
         ["coords"] = {
-            [1] = vector3(-31.18, -1397.537, 29.50)
+            [1] = vector3(-1211.10, -1461.95, 4.3299)
         },
         ["products"] = Config.Products["mustapha"],
         ["showblip"] = true,

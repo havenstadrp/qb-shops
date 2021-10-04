@@ -13,66 +13,66 @@ function DrawText3Ds(x, y, z, text)
     ClearDrawOrigin()
 end
 
--- Citizen.CreateThread(function()
---     while true do
---         local InRange = false
---         local PlayerPed = PlayerPedId()
---         local PlayerPos = GetEntityCoords(PlayerPed)
+Citizen.CreateThread(function()
+    while true do
+        local InRange = false
+        local PlayerPed = PlayerPedId()
+        local PlayerPos = GetEntityCoords(PlayerPed)
 
---         for shop, _ in pairs(Config.Locations) do
---             local position = Config.Locations[shop]["coords"]
---             local products = Config.Locations[shop].products
---             for _, loc in pairs(position) do
---                 local dist = #(PlayerPos - vector3(loc["x"], loc["y"], loc["z"]))
---                 if dist < 10 then
---                     InRange = true
---                     DrawMarker(2, loc["x"], loc["y"], loc["z"], 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.25, 0.2, 0.1, 255, 255, 255, 155, 0, 0, 0, 1, 0, 0, 0)
---                     if dist < 1 then
---                         DrawText3Ds(loc["x"], loc["y"], loc["z"] + 0.15, '~g~E~w~ - Shop')
---                         if IsControlJustPressed(0, 38) then -- E
---                             local ShopItems = {}
---                             ShopItems.items = {}
---                             QBCore.Functions.TriggerCallback('qb-shops:server:getLicenseStatus', function(result)
---                                 ShopItems.label = Config.Locations[shop]["label"]
---                                 if Config.Locations[shop].type == "weapon" then
---                                     if result then
---                                         ShopItems.items = SetupItems(shop)
---                                     else
---                                         for i = 1, #products do
---                                             if not products[i].requiredJob then
---                                                 if not products[i].requiresLicense then
---                                                     table.insert(ShopItems.items, products[i])
---                                                 end
---                                             else
---                                                 for i2 = 1, #products[i].requiredJob do
---                                                     if QBCore.Functions.GetPlayerData().job.name == products[i].requiredJob[i2] and not products[i].requiresLicense then
---                                                         table.insert(ShopItems.items, products[i])
---                                                     end
---                                                 end
---                                             end
---                                         end
---                                     end
---                                 else
---                                     ShopItems.items = SetupItems(shop)
---                                 end
---                                 for k, v in pairs(ShopItems.items) do
---                                     ShopItems.items[k].slot = k
---                                 end
---                                 ShopItems.slots = 30
---                                 TriggerServerEvent("inventory:server:OpenInventory", "shop", "Itemshop_"..shop, ShopItems)
---                             end)
---                         end
---                     end
---                 end
---             end
---         end
+        for shop, _ in pairs(Config.Locations) do
+            local position = Config.Locations[shop]["coords"]
+            local products = Config.Locations[shop].products
+            for _, loc in pairs(position) do
+                local dist = #(PlayerPos - vector3(loc["x"], loc["y"], loc["z"]))
+                if dist < 10 then
+                    InRange = true
+                    DrawMarker(2, loc["x"], loc["y"], loc["z"], 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.25, 0.2, 0.1, 255, 255, 255, 155, 0, 0, 0, 1, 0, 0, 0)
+                    if dist < 1 then
+                        DrawText3Ds(loc["x"], loc["y"], loc["z"] + 0.15, '~g~E~w~ - Shop')
+                        if IsControlJustPressed(0, 38) then -- E
+                            local ShopItems = {}
+                            ShopItems.items = {}
+                            QBCore.Functions.TriggerCallback('qb-shops:server:getLicenseStatus', function(result)
+                                ShopItems.label = Config.Locations[shop]["label"]
+                                if Config.Locations[shop].type == "weapon" then
+                                    if result then
+                                        ShopItems.items = SetupItems(shop)
+                                    else
+                                        for i = 1, #products do
+                                            if not products[i].requiredJob then
+                                                if not products[i].requiresLicense then
+                                                    table.insert(ShopItems.items, products[i])
+                                                end
+                                            else
+                                                for i2 = 1, #products[i].requiredJob do
+                                                    if QBCore.Functions.GetPlayerData().job.name == products[i].requiredJob[i2] and not products[i].requiresLicense then
+                                                        table.insert(ShopItems.items, products[i])
+                                                    end
+                                                end
+                                            end
+                                        end
+                                    end
+                                else
+                                    ShopItems.items = SetupItems(shop)
+                                end
+                                for k, v in pairs(ShopItems.items) do
+                                    ShopItems.items[k].slot = k
+                                end
+                                ShopItems.slots = 30
+                                TriggerServerEvent("inventory:server:OpenInventory", "shop", "Itemshop_"..shop, ShopItems)
+                            end)
+                        end
+                    end
+                end
+            end
+        end
 
---         if not InRange then
---             Citizen.Wait(5000)
---         end
---         Citizen.Wait(5)
---     end
--- end)
+        if not InRange then
+            Citizen.Wait(5000)
+        end
+        Citizen.Wait(5)
+    end
+end)
 
 
 
@@ -194,7 +194,7 @@ Citizen.CreateThread(function()
 	        SetBlipScale(StoreBlip, 0.6)
 	        SetBlipColour(StoreBlip, 3)           
 	    elseif Config.Locations[store]["products"] == Config.Products["mustapha"] then
-	        SetBlipSprite(StoreBlip, 225)
+	        SetBlipSprite(StoreBlip, 729)
 	        SetBlipScale(StoreBlip, 0.6)
 	        SetBlipColour(StoreBlip, 3)              
 	    elseif Config.Locations[store]["products"] == Config.Products["coffeeshop"] then
