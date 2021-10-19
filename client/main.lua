@@ -206,6 +206,26 @@ Citizen.CreateThread(function()
         elseif Config.Locations[store]["products"] == Config.Products["fishing"] then
 	        SetBlipSprite(StoreBlip, 52)
 	        SetBlipScale(StoreBlip, 0.6)
+        elseif Config.Locations[store]["products"] == Config.Products["kfc"] then
+	        SetBlipSprite(StoreBlip, 267)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 44)
+        elseif Config.Locations[store]["products"] == Config.Products["cafe"] then
+	        SetBlipSprite(StoreBlip, 93)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 12)
+        elseif Config.Locations[store]["products"] == Config.Products["huntingshop"] then
+	        SetBlipSprite(StoreBlip, 141)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 43)
+        elseif Config.Locations[store]["products"] == Config.Products["mcdo"] then
+	        SetBlipSprite(StoreBlip, 78)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 5)
+        elseif Config.Locations[store]["products"] == Config.Products["applestore"] then
+	        SetBlipSprite(StoreBlip, 521)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 0)
 	    end
 
 	    SetBlipDisplay(StoreBlip, 4)
