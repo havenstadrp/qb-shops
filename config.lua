@@ -760,6 +760,32 @@ Config.Products = {
             slot = 3,
         },
     },
+    ["apotheek"] = {
+        [1] = {
+            name = 'bandage',
+            price = 500,
+            amount = 500,
+            info = {},
+            type = 'item',
+            slot = 1,
+        },
+        [2] = {
+            name = 'painkillers',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 2,
+        },
+        [3] = {
+            name = 'hydrochloricacid',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 3,
+        },
+    },
 }
 
 Config.Locations = {
@@ -1257,6 +1283,33 @@ Config.Locations = {
             [1] = vector3(149.1398, -232.863, 54.424)
         },
         ["products"] = Config.Products["applestore"],
+        ["showblip"] = true,
+    },
+    ["apotheek"] = {
+        ["label"] = "Apotheek Prik",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(318.3378, -1076.98, 29.478)
+        },
+        ["products"] = Config.Products["apotheek"],
+        ["showblip"] = true,
+    },
+    ["apotheek2"] = {
+        ["label"] = "Apotheek Prik",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(149.1398, -232.863, 54.424)
+        },
+        ["products"] = Config.Products["apotheek"],
+        ["showblip"] = true,
+    },
+    ["blokkenparkbar"] = {
+        ["label"] = "De Zuipschuit",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(123.9724, -1034.67, 29.277)
+        },
+        ["products"] = Config.Products["cafe"],
         ["showblip"] = true,
     },
 }
