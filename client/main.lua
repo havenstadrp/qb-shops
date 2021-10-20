@@ -230,6 +230,10 @@ Citizen.CreateThread(function()
 	        SetBlipSprite(StoreBlip, 51)
 	        SetBlipScale(StoreBlip, 0.6)
             SetBlipColour(StoreBlip, 2)
+        elseif Config.Locations[store]["products"] == Config.Products["popsdiner"] then
+	        SetBlipSprite(StoreBlip, 267)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 61)
 	    end
 
 	    SetBlipDisplay(StoreBlip, 4)

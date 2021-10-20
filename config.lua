@@ -674,6 +674,80 @@ Config.Products = {
             slot = 9,
         },
     },
+    ["popsdiner"] = {
+        [1] = {
+            name = 'chickenbucket',
+            price = 500,
+            amount = 500,
+            info = {},
+            type = 'item',
+            slot = 1,
+        },
+        [2] = {
+            name = 'chickennuggets',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 2,
+        },
+        [3] = {
+            name = 'fries',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 3,
+        },
+        [4] = {
+            name = 'milkshake',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 4,
+        },
+        [5] = {
+            name = 'icecream',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 5,
+        },
+        [6] = {
+            name = 'donut',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 6,
+        },
+        [7] = {
+            name = 'kurkakola',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 7,
+        },
+        [8] = {
+            name = 'water_bottle',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 8,
+        },
+        [9] = {
+            name = 'coffee',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 9,
+        },
+    },
     ["huntingshop"] = {
         [1] = {
             name = 'huntingknife',
@@ -1310,6 +1384,16 @@ Config.Locations = {
             [1] = vector3(123.9724, -1034.67, 29.277)
         },
         ["products"] = Config.Products["cafe"],
+        ["showblip"] = true,
+    },
+    ["popsdiner"] = {
+        ["label"] = "Pop's Diner",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(1593.278, 6453.262, 26.013),
+            [2] = vector3(1588.958, 6455.345, 26.013)
+        },
+        ["products"] = Config.Products["popsdiner"],
         ["showblip"] = true,
     },
 }
