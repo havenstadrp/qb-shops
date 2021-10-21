@@ -1129,7 +1129,7 @@ Config.Locations = {
             [1] = vector3(-1172.43, -1572.24, 4.66)
         },
         ["products"] = Config.Products["coffeeshop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation1"] = {
         ["label"] = "Ammunation",
@@ -1138,7 +1138,7 @@ Config.Locations = {
             [1] = vector3(-662.1, -935.3, 21.8)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation2"] = {
         ["label"] = "Ammunation",
@@ -1147,7 +1147,7 @@ Config.Locations = {
             [1] = vector3(810.2, -2157.3, 29.6)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation3"] = {
         ["label"] = "Ammunation",
@@ -1156,7 +1156,7 @@ Config.Locations = {
             [1] = vector3(1693.4, 3759.5, 34.7)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation4"] = {
         ["label"] = "Ammunation",
@@ -1165,7 +1165,7 @@ Config.Locations = {
             [1] = vector3(-330.2, 6083.8, 31.4)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation5"] = {
         ["label"] = "Ammunation",
@@ -1174,7 +1174,7 @@ Config.Locations = {
             [1] = vector3(252.3, -50.0, 69.9)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation6"] = {
         ["label"] = "Ammunation",
@@ -1183,7 +1183,7 @@ Config.Locations = {
             [1] = vector3(22.0, -1107.2, 29.8)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation7"] = {
         ["label"] = "Ammunation",
@@ -1192,7 +1192,7 @@ Config.Locations = {
             [1] = vector3(2567.6, 294.3, 108.7)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation8"] = {
         ["label"] = "Ammunation",
@@ -1201,7 +1201,7 @@ Config.Locations = {
             [1] = vector3(-1117.5, 2698.6, 18.5)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["ammunation9"] = {
         ["label"] = "Ammunation",
@@ -1210,7 +1210,7 @@ Config.Locations = {
             [1] = vector3(842.4, -1033.4, 28.1)
         },
         ["products"] = Config.Products["weapons"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },
     ["seaword1"] = {
         ["label"] = "Sea Word",

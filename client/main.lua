@@ -185,21 +185,21 @@ Citizen.CreateThread(function()
 	        SetBlipScale(StoreBlip, 0.6)
 	    elseif Config.Locations[store]["products"] == Config.Products["hardware"] then
 	        SetBlipSprite(StoreBlip, 402)
-	        SetBlipScale(StoreBlip, 0.8)
+	        SetBlipScale(StoreBlip, 0.9)
 	    elseif Config.Locations[store]["products"] == Config.Products["weapons"] then
 	        SetBlipSprite(StoreBlip, 110)
-	        SetBlipScale(StoreBlip, 0.85)
+	        SetBlipScale(StoreBlip, 0.6)
 	    elseif Config.Locations[store]["products"] == Config.Products["leisureshop"] then
 	        SetBlipSprite(StoreBlip, 52)
-	        SetBlipScale(StoreBlip, 0.6)
+	        SetBlipScale(StoreBlip, 0.7)
 	        SetBlipColour(StoreBlip, 3)           
 	    elseif Config.Locations[store]["products"] == Config.Products["mustapha"] then
 	        SetBlipSprite(StoreBlip, 729)
-	        SetBlipScale(StoreBlip, 0.6)
+	        SetBlipScale(StoreBlip, 0.7)
 	        SetBlipColour(StoreBlip, 3)              
 	    elseif Config.Locations[store]["products"] == Config.Products["coffeeshop"] then
 	        SetBlipSprite(StoreBlip, 140)
-	        SetBlipScale(StoreBlip, 0.55)
+	        SetBlipScale(StoreBlip, 0.7)
 	    elseif Config.Locations[store]["products"] == Config.Products["casino"] then
 	        SetBlipSprite(StoreBlip, 617)
 	        SetBlipScale(StoreBlip, 0.70)
@@ -228,7 +228,7 @@ Citizen.CreateThread(function()
             SetBlipColour(StoreBlip, 0)
         elseif Config.Locations[store]["products"] == Config.Products["apotheek"] then
 	        SetBlipSprite(StoreBlip, 51)
-	        SetBlipScale(StoreBlip, 0.6)
+	        SetBlipScale(StoreBlip, 0.9)
             SetBlipColour(StoreBlip, 2)
         elseif Config.Locations[store]["products"] == Config.Products["popsdiner"] then
 	        SetBlipSprite(StoreBlip, 267)
