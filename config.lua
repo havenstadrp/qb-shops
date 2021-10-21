@@ -316,33 +316,7 @@ Config.Products = {
         --     type = "item",
         --     slot = 4,
         -- },
-    },   
-    ["mustapha"] = {
-        [1] = {
-            name = "parachute",
-            price = 2500,
-            amount = 10,
-            info = {},
-            type = "item",
-            slot = 1,
-        },
-        [2] = {
-            name = "binoculars",
-            price = 50,
-            amount = 50,
-            info = {},
-            type = "item",
-            slot = 2,
-        },    
-        [3] = {
-            name = "diving_gear",
-            price = 2500,
-            amount = 10,
-            info = {},
-            type = "item",
-            slot = 3,
-        },
-    },    
+    },
     ["weapons"] = {
         [1] = {
             name = "weapon_knife",
@@ -1225,7 +1199,7 @@ Config.Locations = {
         ["label"] = "Leisure Shop",
         ["type"] = "leisure",
         ["coords"] = {
-            [1] = vector3(-1508.774, 1509.015, 115.2903)
+            [1] = vector3(-1505.91, 1511.78, 115.29)
         },
         ["products"] = Config.Products["leisureshop"],
         ["showblip"] = true,
