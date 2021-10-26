@@ -240,6 +240,34 @@ Citizen.CreateThread(function()
 	        SetBlipSprite(StoreBlip, 267)
 	        SetBlipScale(StoreBlip, 0.6)
             SetBlipColour(StoreBlip, 61)
+        elseif Config.Locations[store]["products"] == Config.Products["foodtruck1"] then
+	        SetBlipSprite(StoreBlip, 770)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 61)
+        elseif Config.Locations[store]["products"] == Config.Products["foodtruck2"] then
+	        SetBlipSprite(StoreBlip, 770)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 61)
+        elseif Config.Locations[store]["products"] == Config.Products["foodtruck3"] then
+	        SetBlipSprite(StoreBlip, 770)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 61)
+        elseif Config.Locations[store]["products"] == Config.Products["foodtruck4"] then
+	        SetBlipSprite(StoreBlip, 770)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 61)
+        elseif Config.Locations[store]["products"] == Config.Products["pizza"] then
+	        SetBlipSprite(StoreBlip, 436)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 31)
+        elseif Config.Locations[store]["products"] == Config.Products["hotdogstand"] then
+	        SetBlipSprite(StoreBlip, 436)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 31)
+        elseif Config.Locations[store]["products"] == Config.Products["hamburgerstand"] then
+	        SetBlipSprite(StoreBlip, 436)
+	        SetBlipScale(StoreBlip, 0.6)
+            SetBlipColour(StoreBlip, 31)
 	    end
 
 	    SetBlipDisplay(StoreBlip, 4)
