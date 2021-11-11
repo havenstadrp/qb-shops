@@ -128,133 +128,101 @@ CreateThread(function()
 			StoreBlip = AddBlipForCoord(Config.Locations[store]["coords"][1]["x"], Config.Locations[store]["coords"][1]["y"], Config.Locations[store]["coords"][1]["z"])
 			SetBlipColour(StoreBlip, 0)
 
-			if Config.Locations[store]["products"] == Config.Products["normal"] then
-				SetBlipSprite(StoreBlip, 52)
-				SetBlipScale(StoreBlip, 0.6)
-			elseif Config.Locations[store]["products"] == Config.Products["coffeeplace"] then
-				SetBlipSprite(StoreBlip, 52)
-				SetBlipScale(StoreBlip, 0.6)
-			elseif Config.Locations[store]["products"] == Config.Products["gearshop"] then
-				SetBlipSprite(StoreBlip, 52)
-				SetBlipScale(StoreBlip, 0.6)
-			elseif Config.Locations[store]["products"] == Config.Products["hardware"] then
-				SetBlipSprite(StoreBlip, 402)
-				SetBlipScale(StoreBlip, 0.8)
-			elseif Config.Locations[store]["products"] == Config.Products["weapons"] then
-				SetBlipSprite(StoreBlip, 110)
-				SetBlipScale(StoreBlip, 0.85)
-			elseif Config.Locations[store]["products"] == Config.Products["leisureshop"] then
-				SetBlipSprite(StoreBlip, 52)
-				SetBlipScale(StoreBlip, 0.6)
-				SetBlipColour(StoreBlip, 3)
-			elseif Config.Locations[store]["products"] == Config.Products["mustapha"] then
-				SetBlipSprite(StoreBlip, 225)
-				SetBlipScale(StoreBlip, 0.6)
-				SetBlipColour(StoreBlip, 3)
-			elseif Config.Locations[store]["products"] == Config.Products["coffeeshop"] then
-				SetBlipSprite(StoreBlip, 140)
-				SetBlipScale(StoreBlip, 0.55)
-			elseif Config.Locations[store]["products"] == Config.Products["casino"] then
-				SetBlipSprite(StoreBlip, 617)
-				SetBlipScale(StoreBlip, 0.70)
-			end
+            if Config.Locations[store]["products"] == Config.Products["normal"] then
+                SetBlipSprite(StoreBlip, 52)
+                SetBlipScale(StoreBlip, 0.6)
+            elseif Config.Locations[store]["products"] == Config.Products["coffeeplace"] then
+                SetBlipSprite(StoreBlip, 52)
+                SetBlipScale(StoreBlip, 0.6)
+            elseif Config.Locations[store]["products"] == Config.Products["gearshop"] then
+                SetBlipSprite(StoreBlip, 52)
+                SetBlipScale(StoreBlip, 0.6)
+            elseif Config.Locations[store]["products"] == Config.Products["hardware"] then
+                SetBlipSprite(StoreBlip, 402)
+                SetBlipScale(StoreBlip, 0.9)
+            elseif Config.Locations[store]["products"] == Config.Products["weapons"] then
+                SetBlipSprite(StoreBlip, 110)
+                SetBlipScale(StoreBlip, 0.6)
+            elseif Config.Locations[store]["products"] == Config.Products["leisureshop"] then
+                SetBlipSprite(StoreBlip, 52)
+                SetBlipScale(StoreBlip, 0.7)
+                SetBlipColour(StoreBlip, 3)           
+            elseif Config.Locations[store]["products"] == Config.Products["mustapha"] then
+                SetBlipSprite(StoreBlip, 729)
+                SetBlipScale(StoreBlip, 0.7)
+                SetBlipColour(StoreBlip, 3)              
+            elseif Config.Locations[store]["products"] == Config.Products["coffeeshop"] then
+                SetBlipSprite(StoreBlip, 140)
+                SetBlipScale(StoreBlip, 0.7)
+            elseif Config.Locations[store]["products"] == Config.Products["casino"] then
+                SetBlipSprite(StoreBlip, 617)
+                SetBlipScale(StoreBlip, 0.70)
+            elseif Config.Locations[store]["products"] == Config.Products["fishing"] then
+                SetBlipSprite(StoreBlip, 52)
+                SetBlipScale(StoreBlip, 0.6)
+            elseif Config.Locations[store]["products"] == Config.Products["kfc"] then
+                SetBlipSprite(StoreBlip, 267)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 44)
+            elseif Config.Locations[store]["products"] == Config.Products["cafe"] then
+                SetBlipSprite(StoreBlip, 93)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 12)
+            elseif Config.Locations[store]["products"] == Config.Products["huntingshop"] then
+                SetBlipSprite(StoreBlip, 141)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 43)
+            elseif Config.Locations[store]["products"] == Config.Products["mcdo"] then
+                SetBlipSprite(StoreBlip, 78)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 5)
+            elseif Config.Locations[store]["products"] == Config.Products["applestore"] then
+                SetBlipSprite(StoreBlip, 521)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 0)
+            elseif Config.Locations[store]["products"] == Config.Products["apotheek"] then
+                SetBlipSprite(StoreBlip, 51)
+                SetBlipScale(StoreBlip, 0.9)
+                SetBlipColour(StoreBlip, 2)
+            elseif Config.Locations[store]["products"] == Config.Products["popsdiner"] then
+                SetBlipSprite(StoreBlip, 267)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 61)
+            elseif Config.Locations[store]["products"] == Config.Products["foodtruck1"] then
+                SetBlipSprite(StoreBlip, 770)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 61)
+            elseif Config.Locations[store]["products"] == Config.Products["foodtruck2"] then
+                SetBlipSprite(StoreBlip, 770)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 61)
+            elseif Config.Locations[store]["products"] == Config.Products["foodtruck3"] then
+                SetBlipSprite(StoreBlip, 770)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 61)
+            elseif Config.Locations[store]["products"] == Config.Products["foodtruck4"] then
+                SetBlipSprite(StoreBlip, 770)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 61)
+            elseif Config.Locations[store]["products"] == Config.Products["pizza"] then
+                SetBlipSprite(StoreBlip, 436)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 31)
+            elseif Config.Locations[store]["products"] == Config.Products["hotdogstand"] then
+                SetBlipSprite(StoreBlip, 436)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 31)
+            elseif Config.Locations[store]["products"] == Config.Products["hamburgerstand"] then
+                SetBlipSprite(StoreBlip, 436)
+                SetBlipScale(StoreBlip, 0.6)
+                SetBlipColour(StoreBlip, 31)
+            end
 
-	    if Config.Locations[store]["products"] == Config.Products["normal"] then
-	        SetBlipSprite(StoreBlip, 52)
-	        SetBlipScale(StoreBlip, 0.6)
-	    elseif Config.Locations[store]["products"] == Config.Products["coffeeplace"] then
-	        SetBlipSprite(StoreBlip, 52)
-	        SetBlipScale(StoreBlip, 0.6)
-	    elseif Config.Locations[store]["products"] == Config.Products["gearshop"] then
-	        SetBlipSprite(StoreBlip, 52)
-	        SetBlipScale(StoreBlip, 0.6)
-	    elseif Config.Locations[store]["products"] == Config.Products["hardware"] then
-	        SetBlipSprite(StoreBlip, 402)
-	        SetBlipScale(StoreBlip, 0.9)
-	    elseif Config.Locations[store]["products"] == Config.Products["weapons"] then
-	        SetBlipSprite(StoreBlip, 110)
-	        SetBlipScale(StoreBlip, 0.6)
-	    elseif Config.Locations[store]["products"] == Config.Products["leisureshop"] then
-	        SetBlipSprite(StoreBlip, 52)
-	        SetBlipScale(StoreBlip, 0.7)
-	        SetBlipColour(StoreBlip, 3)           
-	    elseif Config.Locations[store]["products"] == Config.Products["mustapha"] then
-	        SetBlipSprite(StoreBlip, 729)
-	        SetBlipScale(StoreBlip, 0.7)
-	        SetBlipColour(StoreBlip, 3)              
-	    elseif Config.Locations[store]["products"] == Config.Products["coffeeshop"] then
-	        SetBlipSprite(StoreBlip, 140)
-	        SetBlipScale(StoreBlip, 0.7)
-	    elseif Config.Locations[store]["products"] == Config.Products["casino"] then
-	        SetBlipSprite(StoreBlip, 617)
-	        SetBlipScale(StoreBlip, 0.70)
-        elseif Config.Locations[store]["products"] == Config.Products["fishing"] then
-	        SetBlipSprite(StoreBlip, 52)
-	        SetBlipScale(StoreBlip, 0.6)
-        elseif Config.Locations[store]["products"] == Config.Products["kfc"] then
-	        SetBlipSprite(StoreBlip, 267)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 44)
-        elseif Config.Locations[store]["products"] == Config.Products["cafe"] then
-	        SetBlipSprite(StoreBlip, 93)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 12)
-        elseif Config.Locations[store]["products"] == Config.Products["huntingshop"] then
-	        SetBlipSprite(StoreBlip, 141)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 43)
-        elseif Config.Locations[store]["products"] == Config.Products["mcdo"] then
-	        SetBlipSprite(StoreBlip, 78)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 5)
-        elseif Config.Locations[store]["products"] == Config.Products["applestore"] then
-	        SetBlipSprite(StoreBlip, 521)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 0)
-        elseif Config.Locations[store]["products"] == Config.Products["apotheek"] then
-	        SetBlipSprite(StoreBlip, 51)
-	        SetBlipScale(StoreBlip, 0.9)
-            SetBlipColour(StoreBlip, 2)
-        elseif Config.Locations[store]["products"] == Config.Products["popsdiner"] then
-	        SetBlipSprite(StoreBlip, 267)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 61)
-        elseif Config.Locations[store]["products"] == Config.Products["foodtruck1"] then
-	        SetBlipSprite(StoreBlip, 770)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 61)
-        elseif Config.Locations[store]["products"] == Config.Products["foodtruck2"] then
-	        SetBlipSprite(StoreBlip, 770)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 61)
-        elseif Config.Locations[store]["products"] == Config.Products["foodtruck3"] then
-	        SetBlipSprite(StoreBlip, 770)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 61)
-        elseif Config.Locations[store]["products"] == Config.Products["foodtruck4"] then
-	        SetBlipSprite(StoreBlip, 770)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 61)
-        elseif Config.Locations[store]["products"] == Config.Products["pizza"] then
-	        SetBlipSprite(StoreBlip, 436)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 31)
-        elseif Config.Locations[store]["products"] == Config.Products["hotdogstand"] then
-	        SetBlipSprite(StoreBlip, 436)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 31)
-        elseif Config.Locations[store]["products"] == Config.Products["hamburgerstand"] then
-	        SetBlipSprite(StoreBlip, 436)
-	        SetBlipScale(StoreBlip, 0.6)
-            SetBlipColour(StoreBlip, 31)
-	    end
-
-	    SetBlipDisplay(StoreBlip, 4)
-	    SetBlipAsShortRange(StoreBlip, true)
-
-
-	    BeginTextCommandSetBlipName("STRING")
-	    AddTextComponentSubstringPlayerName(Config.Locations[store]["label"])
-	    EndTextCommandSetBlipName(StoreBlip)
-	end
+            SetBlipDisplay(StoreBlip, 4)
+            SetBlipAsShortRange(StoreBlip, true)
+            BeginTextCommandSetBlipName("STRING")
+            AddTextComponentSubstringPlayerName(Config.Locations[store]["label"])
+            EndTextCommandSetBlipName(StoreBlip)
+        end
+    end
 end)
