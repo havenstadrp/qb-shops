@@ -1187,6 +1187,34 @@ Config.Products = {
 }
 
 Config.Locations = {
+    ["beancoffee"] = {
+        ["label"] = "Bean Machine Coffee",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-633.72, 236.15, 81.88)
+        },
+        ["products"] = Config.Products["coffeeplace"],
+        ["showblip"] = true,
+    },
+    ["casino"] = {
+        ["label"] = "Diamond Casino",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(948.3834, 34.21247, 71.839)
+        },
+        ["products"] = Config.Products["casino"],
+        ["showblip"] = true,
+    },
+    ["ltdgasoline"] = {
+        ["label"] = "LTD Gasoline",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-48.44, -1757.86, 29.42),
+            [2] = vector3(-47.23, -1756.58, 29.42)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+    },
     -- 24/7 Locations
     ["247supermarket"] = {
         ["label"] = "24/7 Supermarket",
@@ -1197,6 +1225,62 @@ Config.Locations = {
         ["products"] = Config.Products["normal"],
         ["showblip"] = true,
         ["blipsprite"] = 52
+    },
+    ["robsliquor6"] = {
+        ["label"] = "Casino Bar",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(936.1185, 28.61719, 71.833)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+    },
+    ["robsliquor"] = {
+        ["label"] = "Rob's Liqour",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-1222.77, -907.19, 12.32)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+    },
+    ["ltdgasoline2"] = {
+        ["label"] = "LTD Gasoline",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-707.41, -912.83, 19.21),
+            [2] = vector3(-707.32, -914.65, 19.21)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+    },
+    ["robsliquor2"] = {
+        ["label"] = "Rob's Liqour",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-1487.7, -378.53, 40.16)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+    },
+    ["ltdgasoline3"] = {
+        ["label"] = "LTD Gasoline",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-1820.33, 792.66, 138.1),
+            [2] = vector3(-1821.55, 793.98, 138.1)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+    },
+    ["robsliquor3"] = {
+        ["label"] = "Rob's Liqour",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(-2967.79, 391.64, 15.04)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
     },
     ["247supermarket2"] = {
         ["label"] = "24/7 Supermarket",
@@ -1247,6 +1331,15 @@ Config.Locations = {
         ["products"] = Config.Products["normal"],
         ["showblip"] = true,
         ["blipsprite"] = 52
+    },
+    ["robsliquor4"] = {
+        ["label"] = "Rob's Liqour",
+        ["type"] = "normal",
+        ["coords"] = {
+            [1] = vector3(1165.28, 2709.4, 38.15)
+        },
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
     },
     ["247supermarket7"] = {
         ["label"] = "24/7 Supermarket",
@@ -1894,5 +1987,6 @@ Config.Locations = {
         ["products"] = Config.Products["normal"],
         ["showblip"] = true,
         ["blipsprite"] = 52
+    }
     
 }
