@@ -98,6 +98,186 @@ Config.Products = {
             type = "item",
             slot = 12,
         },
+
+    },
+
+    ["24/7shop"] = {
+        [1] = {
+            name = "water_bottle",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 1,
+        },
+        [2] = {
+            name = "kurkakola",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 2,
+        },
+        [3] = {
+            name = "fanta",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 3,
+        },
+        [4] = {
+            name = "sprite",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 4,
+        },
+        [5] = {
+            name = "redbull",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 5,
+        },
+        [6] = {
+            name = "espresso",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 6,
+        },
+        [7] = {
+            name = "green_tea",
+            price = 7,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [8] = {
+            name = "cappuccino",
+            price = 10,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 8,
+        },
+        [9] = {
+            name = "earl_grey_tea",
+            price = 12,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 9,
+        },
+        [10] = {
+            name = "stella",
+            price = 100,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 10,
+        },
+        [11] = {
+            name = "duvel",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 11,
+        },
+        [12] = {
+            name = "corona",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 12,
+        },
+        [13] = {
+            name = "jupiler",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 13,
+        },
+        [14] = {
+            name = "carapils",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 14,
+        },
+        [15] = {
+            name = "donut",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 15,
+        },
+        [16] = {
+            name = "cookie",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 16,
+        },
+        [17] = {
+            name = "tosti",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 17,
+        },
+        [18] = {
+            name = "sandwich",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 18,
+        },
+        [19] = {
+            name = "chips",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 19,
+        },
+        [20] = {
+            name = "popcorn",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 20,
+        },
+        [21] = {
+            name = "twerks_candy",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 21,
+        },
+        [22] = {
+            name = "snikkel_candy",
+            price = 2,
+            amount = 5000,
+            info = {},
+            type = "item",
+            slot = 22,
+        },
     },
     ["hardware"] = {
         [1] = {
@@ -383,19 +563,91 @@ Config.Products = {
     ["coffeeplace"] = {
         [1] = {
             name = "coffee",
-            price = 5,
+            price = 25,
             amount = 500,
             info = {},
             type = "item",
             slot = 1,
         },
         [2] = {
-            name = "lighter",
-            price = 2,
+            name = "cake",
+            price = 25,
             amount = 50,
             info = {},
             type = "item",
             slot = 2,
+        },
+        [3] = {
+            name = "pie",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 3,
+        },
+        [4] = {
+            name = "donut",  
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 4,
+        },
+        [5] = {
+            name = "green_tea",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 5,
+        },
+        [6] = {
+            name = "frappuccino",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 6,
+        },
+        [7] = {
+            name = "espresso",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [8] = {
+            name = "cappuccino",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 8,
+        },
+        [9] = {
+            name = "mint_tea",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 9,
+        },
+        [10] = {
+            name = "earl_grey_tea",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 10,
+        },
+        [11] = {
+            name = "cookie",
+            price = 25,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 11,
         },
     },
     ["casino"] = {
@@ -492,6 +744,22 @@ Config.Products = {
             slot = 8,
         },
         [9] = {
+            name = 'fanta',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 9,
+        },
+        [9] = {
+            name = 'sprite',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 9,
+        },
+        [9] = {
             name = 'coffee',
             price = 10,
             amount = 1000,
@@ -499,10 +767,19 @@ Config.Products = {
             type = 'item',
             slot = 9,
         },
+        [9] = {
+            name = 'redbull',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 9,
+        },
+
     },
-    ["cafe"] = {
+    ["bar"] = {
         [1] = {
-            name = 'whiskey',
+            name = 'kurkakola',
             price = 500,
             amount = 500,
             info = {},
@@ -510,7 +787,7 @@ Config.Products = {
             slot = 1,
         },
         [2] = {
-            name = 'vodka',
+            name = 'fanta',
             price = 10,
             amount = 1000,
             info = {},
@@ -518,7 +795,7 @@ Config.Products = {
             slot = 2,
         },
         [3] = {
-            name = 'twerks_candy',
+            name = 'sprite',
             price = 10,
             amount = 1000,
             info = {},
@@ -526,7 +803,7 @@ Config.Products = {
             slot = 3,
         },
         [4] = {
-            name = 'snikkel_candy',
+            name = 'redbull',
             price = 10,
             amount = 1000,
             info = {},
@@ -534,7 +811,226 @@ Config.Products = {
             slot = 4,
         },
         [5] = {
-            name = 'kurkakola',
+            name = 'corona',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 5,
+        },
+        [6] = {
+            name = 'stella',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 6,
+        },
+        [7] = {
+            name = 'duvel',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 7,
+        },
+        [8] = {
+            name = 'jupiler',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 8,
+        },
+        [9] = {
+            name = 'maes',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 9,
+        },
+        [10] = {
+            name = 'carapils',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 10,
+        },
+        [11] = {
+            name = 'desperados',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 11,
+        },
+        [12] = {
+            name = 'vodka_redbull',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 12,
+        },
+        [13] = {
+            name = 'whiskey',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 13,
+        },
+        [14] = {
+            name = 'vodka',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 14,
+        },
+        [15] = {
+            name = 'bacardi_cola',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 15,
+        },
+        [16] = {
+            name = 'martini',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 16,
+        },
+        [17] = {
+            name = 'gold_strike',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 17,
+        },
+        [18] = {
+            name = 'boswandeling',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 18,
+        },
+        [19] = {
+            name = 'jenever',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 19,
+        },
+        [20] = {
+            name = 'rode_wijn',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 20,
+        },
+        [21] = {
+            name = 'witte_wijn',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 21,
+        },
+        [22] = {
+            name = 'cava',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 22,
+        },
+        [23] = {
+            name = 'mojito',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 23,
+        },
+        [24] = {
+            name = 'twerks_candy',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 24,
+        },
+        [25] = {
+            name = 'snikkel_candy',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 25,
+        },
+        [26] = {
+            name = 'chips',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 26,
+        },
+        [27] = {
+            name = 'sandwich',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 27,
+        },
+
+    },
+    ["cafe"] = {
+        [1] = {
+            name = 'stella',
+            price = 500,
+            amount = 500,
+            info = {},
+            type = 'item',
+            slot = 1,
+        },
+        [2] = {
+            name = 'jupiler',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 2,
+        },
+        [3] = {
+            name = 'duvel',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 3,
+        },
+        [4] = {
+            name = 'maes',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 4,
+        },
+        [5] = {
+            name = 'carapils',
             price = 10,
             amount = 1000,
             info = {},
@@ -550,7 +1046,7 @@ Config.Products = {
             slot = 6,
         },
         [7] = {
-            name = 'coffee',
+            name = 'kurkakola',
             price = 10,
             amount = 1000,
             info = {},
@@ -558,7 +1054,7 @@ Config.Products = {
             slot = 7,
         },
         [8] = {
-            name = 'wine',
+            name = 'fanta',
             price = 10,
             amount = 1000,
             info = {},
@@ -566,13 +1062,110 @@ Config.Products = {
             slot = 8,
         },
         [9] = {
-            name = 'grapejuice',
+            name = 'sprite',
             price = 10,
             amount = 1000,
             info = {},
             type = 'item',
             slot = 9,
         },
+        [10] = {
+            name = 'redbull',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 10,
+        },
+        [11] = {
+            name = 'wine',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 11,
+        },
+        [12] = {
+            name = 'vodka',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 12,
+        },
+        [13] = {
+            name = 'vodka_redbull',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 13,
+        },
+        [14] = {
+            name = 'whiskey',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 14,
+        },
+        [15] = {
+            name = 'chips',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 15,
+        },
+        [16] = {
+            name = 'tosti',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 16,
+        },
+        [17] = {
+            name = 'twerks_candy',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 17,
+        },
+        [18] = {
+            name = 'snikkel_candy',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 18,
+        },
+        [19] = {
+            name = 'sandwich',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 19,
+        },  
+        [20] = {
+            name = 'desperados',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 20,
+        },  
+        [21] = {
+            name = 'corona',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 21,
+        },  
+
     },
     ["mcdo"] = {
         [1] = {
@@ -584,7 +1177,7 @@ Config.Products = {
             slot = 1,
         },
         [2] = {
-            name = 'milkshake',
+            name = 'hamburger',
             price = 10,
             amount = 1000,
             info = {},
@@ -592,7 +1185,7 @@ Config.Products = {
             slot = 2,
         },
         [3] = {
-            name = 'icecream',
+            name = 'nuggets',
             price = 10,
             amount = 1000,
             info = {},
@@ -600,7 +1193,7 @@ Config.Products = {
             slot = 3,
         },
         [4] = {
-            name = 'donut',
+            name = 'milkshake',
             price = 10,
             amount = 1000,
             info = {},
@@ -608,7 +1201,7 @@ Config.Products = {
             slot = 4,
         },
         [5] = {
-            name = 'kurkakola',
+            name = 'icecream',
             price = 10,
             amount = 1000,
             info = {},
@@ -616,7 +1209,7 @@ Config.Products = {
             slot = 5,
         },
         [6] = {
-            name = 'water_bottle',
+            name = 'donut',
             price = 10,
             amount = 1000,
             info = {},
@@ -624,13 +1217,54 @@ Config.Products = {
             slot = 6,
         },
         [7] = {
-            name = 'coffee',
+            name = 'kurkakola',
             price = 10,
             amount = 1000,
             info = {},
             type = 'item',
             slot = 7,
         },
+        [8] = {
+            name = 'water_bottle',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 8,
+        },
+        [9] = {
+            name = 'coffee',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 9,
+        },
+        [10] = {
+            name = 'fanta',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 10,
+        },
+        [11] = {
+            name = 'sprite',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 11,
+        },
+        [12] = {
+            name = 'grapejuice',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 12,
+        },
+
     },
     ["popsdiner"] = {
         [1] = {
@@ -642,7 +1276,7 @@ Config.Products = {
             slot = 1,
         },
         [2] = {
-            name = 'chickennuggets',
+            name = 'nuggets',
             price = 10,
             amount = 1000,
             info = {},
@@ -742,8 +1376,8 @@ Config.Products = {
     },
     ["taco"] = {
         [1] = {
-            name = 'kurkakola',
-            price = 500,
+            name = 'taco',
+            price = 100,
             amount = 500,
             info = {},
             type = 'item',
@@ -751,40 +1385,14 @@ Config.Products = {
         },
         [2] = {
             name = 'fries',
-            price = 10,
+            price = 100,
             amount = 1000,
             info = {},
             type = 'item',
             slot = 2,
         },
         [3] = {
-            name = 'taco',
-            price = 10,
-            amount = 1000,
-            info = {},
-            type = 'item',
-            slot = 3,
-        },
-    },
-    ["pizza"] = {
-        [1] = {
-            name = 'pizzaslice',
-            price = 500,
-            amount = 500,
-            info = {},
-            type = 'item',
-            slot = 1,
-        },
-        [2] = {
             name = 'kurkakola',
-            price = 10,
-            amount = 1000,
-            info = {},
-            type = 'item',
-            slot = 2,
-        },
-        [3] = {
-            name = 'coffee',
             price = 10,
             amount = 1000,
             info = {},
@@ -792,7 +1400,7 @@ Config.Products = {
             slot = 3,
         },
         [4] = {
-            name = 'beer',
+            name = 'fanta',
             price = 10,
             amount = 1000,
             info = {},
@@ -800,7 +1408,7 @@ Config.Products = {
             slot = 4,
         },
         [5] = {
-            name = 'whiskey',
+            name = 'sprite',
             price = 10,
             amount = 1000,
             info = {},
@@ -808,13 +1416,22 @@ Config.Products = {
             slot = 5,
         },
         [6] = {
-            name = 'wine',
+            name = 'water_bottle',
             price = 10,
             amount = 1000,
             info = {},
             type = 'item',
             slot = 6,
         },
+        [7] = {
+            name = 'redbull',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 7,
+        },
+
     },
     ["foodtruck1"] = {
         [1] = {
@@ -858,7 +1475,7 @@ Config.Products = {
             slot = 5,
         },
         [6] = {
-            name = 'pizzaslice',
+            name = 'pizza_mozzerella',
             price = 10,
             amount = 1000,
             info = {},
@@ -908,7 +1525,7 @@ Config.Products = {
             slot = 5,
         },
         [6] = {
-            name = 'pancakes',
+            name = 'pancake',
             price = 10,
             amount = 1000,
             info = {},
@@ -950,7 +1567,23 @@ Config.Products = {
             slot = 1,
         },
         [2] = {
-            name = 'panini',
+            name = 'panini boulet',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 2,
+        },
+        [2] = {
+            name = 'panini chicken peper',
+            price = 10,
+            amount = 1000,
+            info = {},
+            type = 'item',
+            slot = 2,
+        },
+        [2] = {
+            name = 'panini mozzarella',
             price = 10,
             amount = 1000,
             info = {},
@@ -1184,37 +1817,380 @@ Config.Products = {
             slot = 3,
         },
     },
+    ["catsnack"] = {
+        [1] = {
+            name = "milkshake",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 1,
+        },
+        [2] = {
+            name = "donut",
+            price = 4.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 2,
+        },
+        [3] = {
+            name = "cookie",
+            price = 2.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 3,
+        },
+        [4] = {
+            name = "water_bottle",
+            price = 2.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 4,
+        },
+        [5] = {
+            name = "coffee",
+            price = 3.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 5,
+        },
+        [6] = {
+            name = "cake",
+            price = 4.36,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 6,
+        },
+        [7] = {
+            name = "pie",
+            price = 4.36,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [8] = {
+            name = "fanta",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 8,
+        },
+        [9] = {
+            name = "krukakola",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 9,
+        },
+        [10] = {
+            name = "milk",
+            price = 5.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 10,
+        },
+    },
+    ["snackbar"] = {
+        [1] = {
+            name = "tosti",
+            price = 5.69,
+            amount = 15,
+            info = {},
+            type = "item",
+            slot = 1,
+        },
+        [2] = {
+            name = "hotdog",
+            price = 5.69,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 2,
+        },
+        [3] = {
+            name = "pizza_salami",
+            price = 10.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 3,
+        },
+        [4] = {
+            name = "hamburger",
+            price = 2.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 4,
+        },
+        [5] = {
+            name = "fries",
+            price = 7.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 5,
+        },
+        [6] = {
+            name = "pasta_bolognese",
+            price = 0.64,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 6,
+        },
+        [7] = {
+            name = "kurkakola",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [8] = {
+            name = "fanta",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 8,
+        },
+        [9] = {
+            name = "sprite",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 9,
+        },
+        [10] = {
+            name = "stella",
+            price = 5.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 10,
+        },
+        [11] = {
+            name = "jupiler",
+            price = 15.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 11,
+        },
+        [12] = {
+            name = "maes",
+            price = 15.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 12,
+        },
+        [13] = {
+            name = "carapils",
+            price = 3.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 13,
+        },
+        [14] = {
+            name = "redbull",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 14,
+        },
+        [15] = {
+            name = "duvel",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 15,
+        },
+        [16] = {
+            name = "vodka_redbull",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 16,
+        },
+        [17] = {
+            name = "wine",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 17,
+        },
+        [18] = {
+            name = "water_bottle",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 18,
+        },
+        [19] = {
+            name = "coffee'",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 19,
+        },
+        [20] = {
+            name = "mint_tea",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 20,
+        },
+        [21] = {
+            name = "green_tea",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 21,
+        },
+        [22] = {
+            name = "whiskey",
+            price = 3.,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 22,
+        },
+
+    },
+
+    ["pizzeria"] = {
+        [1] = {
+            name = "pizza_mozzerella",
+            price = 8.00,
+            amount = 15,
+            info = {},
+            type = "item",
+            slot = 1,
+        },
+        [2] = {
+            name = "pizza_salami",
+            price = 8.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 2,
+        },
+        [3] = {
+            name = "pizza_hawai",
+            price = 8.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 3,
+        },
+        [4] = {
+            name = "pizza_vegi",
+            price = 8.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 4,
+        },
+        [5] = {
+            name = "pasta_carbonara",
+            price = 7.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 5,
+        },
+        [6] = {
+            name = "pasta_bolognese",
+            price = 7.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 6,
+        },
+        [7] = {
+            name = "tiramisu",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [8] = {
+            name = "fanta",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 8,
+        },
+        [9] = {
+            name = "sprite",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 9,
+        },
+        [10] = {
+            name = "beer",
+            price = 5.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 10,
+        },
+        [11] = {
+            name = "icecream",
+            price = 1.50,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 11,
+        },
+        [12] = {
+            name = "chocomousse",
+            price = 3.99,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 12,
+        },
+        [13] = {
+            name = "coffee",
+            price = 3.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 13,
+        },
+    },
+
+
 }
 
 Config.Locations = {
-    ["beancoffee"] = {
-        ["label"] = "Bean Machine Coffee",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-633.72, 236.15, 81.88)
-        },
-        ["products"] = Config.Products["coffeeplace"],
-        ["showblip"] = true,
-    },
-    ["casino"] = {
-        ["label"] = "Diamond Casino",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(948.3834, 34.21247, 71.839)
-        },
-        ["products"] = Config.Products["casino"],
-        ["showblip"] = true,
-    },
-    ["ltdgasoline"] = {
-        ["label"] = "LTD Gasoline",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-48.44, -1757.86, 29.42),
-            [2] = vector3(-47.23, -1756.58, 29.42)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-    },
+
     -- 24/7 Locations
     ["247supermarket"] = {
         ["label"] = "24/7 Supermarket",
@@ -1222,65 +2198,8 @@ Config.Locations = {
             [1] = vector3(25.7, -1347.3, 29.49),
             [2] = vector3(25.7, -1344.99, 29.49)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-        ["blipsprite"] = 52
-    },
-    ["robsliquor6"] = {
-        ["label"] = "Casino Bar",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(936.1185, 28.61719, 71.833)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-    },
-    ["robsliquor"] = {
-        ["label"] = "Rob's Liqour",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-1222.77, -907.19, 12.32)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-    },
-    ["ltdgasoline2"] = {
-        ["label"] = "LTD Gasoline",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-707.41, -912.83, 19.21),
-            [2] = vector3(-707.32, -914.65, 19.21)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-    },
-    ["robsliquor2"] = {
-        ["label"] = "Rob's Liqour",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-1487.7, -378.53, 40.16)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-    },
-    ["ltdgasoline3"] = {
-        ["label"] = "LTD Gasoline",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-1820.33, 792.66, 138.1),
-            [2] = vector3(-1821.55, 793.98, 138.1)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-    },
-    ["robsliquor3"] = {
-        ["label"] = "Rob's Liqour",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(-2967.79, 391.64, 15.04)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false
     },
     ["247supermarket2"] = {
         ["label"] = "24/7 Supermarket",
@@ -1288,8 +2207,8 @@ Config.Locations = {
             [1] = vector3(-3038.71, 585.9, 7.9),
             [2] = vector3(-3041.04, 585.11, 7.9)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket3"] = {
@@ -1298,8 +2217,8 @@ Config.Locations = {
             [1] = vector3(-3241.47, 1001.14, 12.83),
             [2] = vector3(-3243.98, 1001.35, 12.83)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket4"] = {
@@ -1308,8 +2227,8 @@ Config.Locations = {
             [1] = vector3(1728.66, 6414.16, 35.03),
             [2] = vector3(1729.72, 6416.27, 35.03)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket5"] = {
@@ -1318,8 +2237,8 @@ Config.Locations = {
             [1] = vector3(1697.99, 4924.4, 42.06),
             [2] = vector3(1699.44, 4923.47, 42.06)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket6"] = {
@@ -1328,18 +2247,9 @@ Config.Locations = {
             [1] = vector3(1961.48, 3739.96, 32.34),
             [2] = vector3(1960.22, 3742.12, 32.34)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
-    },
-    ["robsliquor4"] = {
-        ["label"] = "Rob's Liqour",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(1165.28, 2709.4, 38.15)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
     },
     ["247supermarket7"] = {
         ["label"] = "24/7 Supermarket",
@@ -1347,8 +2257,8 @@ Config.Locations = {
             [1] = vector3(547.79, 2671.79, 42.15),
             [2] = vector3(548.1, 2669.38, 42.15)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket8"] = {
@@ -1357,8 +2267,8 @@ Config.Locations = {
             [1] = vector3(2679.25, 3280.12, 55.24),
             [2] = vector3(2677.13, 281.38, 55.24)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket9"] = {
@@ -1367,8 +2277,8 @@ Config.Locations = {
             [1] = vector3(2557.94, 382.05, 108.62),
             [2] = vector3(2555.53, 382.18, 108.62)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["247supermarket10"] = {
@@ -1377,8 +2287,8 @@ Config.Locations = {
             [1] = vector3(373.55, 325.56, 103.56),
             [2] = vector3(374.29, 327.9, 103.56)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
 
@@ -1390,7 +2300,7 @@ Config.Locations = {
             [2] = vector3(-47.23, -1756.58, 29.42)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["ltdgasoline2"] = {
@@ -1400,7 +2310,7 @@ Config.Locations = {
             [2] = vector3(-707.32, -914.65, 19.21)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["ltdgasoline3"] = {
@@ -1410,7 +2320,7 @@ Config.Locations = {
             [2] = vector3(-1821.55, 793.98, 138.1)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["ltdgasoline4"] = {
@@ -1420,7 +2330,7 @@ Config.Locations = {
             [2] = vector3(1163.4, -322.24, 69.2)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
 
@@ -1431,7 +2341,7 @@ Config.Locations = {
             [1] = vector3(-1222.77, -907.19, 12.32)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor2"] = {
@@ -1440,7 +2350,7 @@ Config.Locations = {
             [1] = vector3(-1487.7, -378.53, 40.16)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor3"] = {
@@ -1449,7 +2359,7 @@ Config.Locations = {
             [1] = vector3(-2967.79, 391.64, 15.04)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor4"] = {
@@ -1458,7 +2368,7 @@ Config.Locations = {
             [1] = vector3(1165.28, 2709.4, 38.15)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor5"] = {
@@ -1467,7 +2377,7 @@ Config.Locations = {
             [1] = vector3(1135.66, -982.76, 46.41)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
 
@@ -1478,7 +2388,7 @@ Config.Locations = {
             [1] = vector3(45.55, -1749.01, 29.6)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 402
     },
     ["hardware2"] = {
@@ -1487,7 +2397,7 @@ Config.Locations = {
             [1] = vector3(2747.8, 3472.86, 55.67)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 402
     },
     ["hardware3"] = {
@@ -1496,26 +2406,16 @@ Config.Locations = {
             [1] = vector3(-421.84, 6136.09, 31.78)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },   
     ["hardware4"] = {
         ["label"] = "Hardware Store",
-        ["type"] = "hardware",
         ["coords"] = {
             [1] = vector3(1707.846, 4792.051, 41.983)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
-    }, 
-    ["coffeeshop"] = {
-        ["label"] = "Superfly",
-        ["type"] = "hardware",
-        ["coords"] = {
-            [1] = vector3(-1172.43, -1572.24, 4.66)
-        },
-        ["products"] = Config.Products["coffeeshop"],
         ["showblip"] = false,
-    },
+    }, 
 
     -- Ammunation Locations
     ["ammunation"] = {
@@ -1598,7 +2498,7 @@ Config.Locations = {
             [1] = vector3(948.3834, 34.21247, 71.839)
         },
         ["products"] = Config.Products["casino"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 617
     },
     ["casino2"] = {
@@ -1606,9 +2506,8 @@ Config.Locations = {
         ["coords"] = {
             [1] = vector3(936.1185, 28.61719, 71.833)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
-        ["blipsprite"] = 52
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false
     },
 
     -- Weedshop Locations
@@ -1618,7 +2517,7 @@ Config.Locations = {
             [1] = vector3(-1172.43, -1572.24, 4.66)
         },
         ["products"] = Config.Products["weedshop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 140
     },
 
@@ -1629,20 +2528,20 @@ Config.Locations = {
             [1] = vector3(-633.72, 236.15, 81.88)
         },
         ["products"] = Config.Products["coffeeplace"],
-        ["showblip"] = true,
-        ["blipsprite"] = 52
+        ["showblip"] = false,
+        ["blipsprite"] = 214
     },
 
     -- Sea Word Locations
-    ["seaword1"] = {
-        ["label"] = "Sea Word",
-        ["coords"] = {
-            [1] = vector3(-1686.9, -1072.23, 13.15)
-        },
-        ["products"] = Config.Products["gearshop"],
-        ["showblip"] = true,
-        ["blipsprite"] = 52
-    },
+    -- ["seaword1"] = {
+    --     ["label"] = "Sea Word",
+    --     ["coords"] = {
+    --         [1] = vector3(-1686.9, -1072.23, 13.15)
+    --     },
+    --     ["products"] = Config.Products["gearshop"],
+    --     ["showblip"] = false,
+    --     ["blipsprite"] = 52
+    -- },
 
     -- Leisure Shop Locations
     ["leisureshop"] = {
@@ -1650,226 +2549,210 @@ Config.Locations = {
         ["coords"] = {
             [1] = vector3(-1505.91, 1511.78, 115.29)
         },
-        ["products"] = Config.Products["leisureshop"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["leisureshop"], -- Scuba gear, verrekijker, ....
+        ["showblip"] = false,
+        ["blipsprite"] = 729
     },   
-    ["mustapha"] = {
+
+    ["blubblub"] = {
         ["label"] = "Blublub Shop",
-        ["type"] = "leisure",
         ["coords"] = {
             [1] = vector3(-1211.10, -1461.95, 4.3299)
         },
-        ["products"] = Config.Products["mustapha"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["leisureshop"],
+        ["showblip"] = false,
+        ["blipsprite"] = 729
     },
     ["fishing"] = {
         ["label"] = "Fishing",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(1300.804, 4318.823, 38.158)
         },
         ["products"] = Config.Products["fishing"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 754
     },
     ["popeyes"] = {
         ["label"] = "Popeyes",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(173.7010, -1447.02, 29.130),
             [2] = vector3(171.8998, -1449.20, 29.130),
             [3] = vector3(175.7259, -1444.64, 29.130)
         },
         ["products"] = Config.Products["kfc"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 436
     },
     ["tequilala"] = {
         ["label"] = "Tequi-la-la",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-560.156, 286.7287, 82.176)
         },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false,
+        ["blipsprite"] = 436
     },
     ["nachtwinkel"] = {
         ["label"] = "Liquor Ace",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(1392.991, 3605.047, 34.980)
         },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = false,
+        ["blipsprite"] = 430
     },
     ["groveshop"] = {
         ["label"] = "Grove Shop",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-6.50999, -1822.99, 25.319)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 52
+
     },
     ["jachtwinkel"] = {
         ["label"] = "Bayview Lodge Shop",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-674.994, 5836.406, 17.340)
         },
         ["products"] = Config.Products["huntingshop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 141
     },
     ["mcdo"] = {
         ["label"] = "McDonalds",
-        ["type"] = "normal",
         ["coords"] = {
-            [1] = vector3(-401.601, 6072.068, 31.500),
-            [2] = vector3(-401.569, 6070.488, 31.500),
-            [3] = vector3(-401.561, 6069.009, 31.500),
-            [4] = vector3(-402.024, 6074.967, 31.500),
-            [5] = vector3(-404.008, 6076.055, 31.500),
-            [6] = vector3(-406.152, 6073.684, 31.500)
+            [1] = vector3(-401.569, 6070.488, 31.500)
         },
         ["products"] = Config.Products["mcdo"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 78
     },
     ["burgershot"] = {
         ["label"] = "Burgershot",
-        ["type"] = "normal",
         ["coords"] = {
-            [1] = vector3(-1194.60, -891.891, 13.995),
-            [2] = vector3(-1193.22, -894.000, 13.995)
+            [1] = vector3(-1193.99, -892.735, 13.995)
         },
         ["products"] = Config.Products["mcdo"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 106
     },
     ["mojito"] = {
-        ["label"] = "Mojito Bar",
-        ["type"] = "normal",
+        ["label"] = "Place 2 be",
         ["coords"] = {
-            [1] = vector3(-114.662, 6391.205, 32.180),
-            [2] = vector3(-117.148, 6388.420, 32.180),
-            [3] = vector3(-119.040, 6384.879, 32.180),
-            [4] = vector3(-115.335, 6379.151, 32.180),
-            [5] = vector3(-117.048, 6381.199, 32.180)
+            [1] = vector3(-117.148, 6388.420, 32.180),
+            [2] = vector3(-119.040, 6384.879, 32.180),
+            [3] = vector3(-115.335, 6379.151, 32.180),
+            [4] = vector3(-117.048, 6381.199, 32.180)
         },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false
+    },
+    ["mojito2"] = {
+        ["label"] = "Place 2 be",
+        ["coords"] = {
+            [1] = vector3(-114.662, 6391.205, 32.180)
+        },
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false,
+        ["blipsprite"] = 93
     },
     ["lostmcbar"] = {
-        ["label"] = "Lost MC Palito Bar",
-        ["type"] = "normal",
+        ["label"] = "Hell",
         ["coords"] = {
             [1] = vector3(-21.9288, 6479.876, 31.493)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["tacoshop"] = {
         ["label"] = "The Taco Farmer",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(11.20908, -1605.64, 29.393)
         },
         ["products"] = Config.Products["taco"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
-    ["stripclub"] = {
+    ["GABZ-VANILLAUNICORN"] = {
         ["label"] = "Vanilla Unicorn Stripclub",
-        ["type"] = "normal",
         ["coords"] = {
-            [1] = vector3(127.1148, -1283.32, 29.277),
-            [2] = vector3(128.6347, -1286.04, 29.279)
+            [1] = vector3(127.6457, -1284.81, 29.269)
         },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false,
+        ["blipsprite"] = 279
     },
     ["applestore"] = {
         ["label"] = "Apple Store",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(149.1398, -232.863, 54.424)
         },
         ["products"] = Config.Products["applestore"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["apotheek"] = {
         ["label"] = "Apotheek Prik",
-        ["type"] = "normal",
         ["coords"] = {
-            [1] = vector3(318.3378, -1076.98, 29.478)
+            [1] = vector3(376.5866, -829.494, 29.291)
         },
         ["products"] = Config.Products["apotheek"],
-        ["showblip"] = true,
+        ["showblip"] = false,
+        ["blipsprite"] = 51
     },
-    ["apotheek2"] = {
-        ["label"] = "Apotheek Prik",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(149.1398, -232.863, 54.424)
-        },
-        ["products"] = Config.Products["apotheek"],
-        ["showblip"] = true,
-    },
-    ["apotheek3"] = {
-        ["label"] = "Apotheek Prik",
-        ["type"] = "normal",
-        ["coords"] = {
-            [1] = vector3(1830.675, 3681.634, 34.270)
-        },
-        ["products"] = Config.Products["apotheek"],
-        ["showblip"] = true,
-    },
-    ["blokkenparkbar"] = {
+    -- ["apotheek2"] = {
+    --     ["label"] = "Apotheek Prik"
+    --     ["coords"] = {
+    --         [1] = vector3(1830.675, 3681.634, 34.270)
+    --     },
+    --     ["products"] = Config.Products["apotheek"],
+    --     ["showblip"] = false,
+    --     ["blipsprite"] = 51
+    -- },
+    ["zuipschuit"] = {
         ["label"] = "De Zuipschuit",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(123.9724, -1034.67, 29.277)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
-    ["popsdiner"] = {
-        ["label"] = "Pop's Diner",
-        ["type"] = "normal",
+    ["zuipschuit2"] = {
+        ["label"] = "De Zuipschuit",
         ["coords"] = {
-            [1] = vector3(1593.278, 6453.262, 26.013),
-            [2] = vector3(1588.958, 6455.345, 26.013)
+            [1] = vector3(131.5506, -1053.67, 22.960)
         },
-        ["products"] = Config.Products["popsdiner"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = false
     },
     ["hetblokje"] = {
         ["label"] = "Het Blokje",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(188.9495, -917.992, 31.193)
         },
         ["products"] = Config.Products["foodtruck1"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["kremglaze"] = {
         ["label"] = "Krem Glaze",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(227.3142, -906.758, 30.692),
             [2] = vector3(-1644.61, -1101.12, 13.019),
             [3] = vector3(-1687.58, -1105.00, 13.152)
         },
         ["products"] = Config.Products["foodtruck2"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["foodtruck"] = {
         ["label"] = "Foodtruck",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(1472.335, 3240.696, 40.659)
         },
         ["products"] = Config.Products["foodtruck3"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["tgazetje"] = {
         ["label"] = "'t Gazetje",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(221.2743, -915.488, 30.692),
             [2] = vector3(-1636.10, -1091.39, 13.028),
@@ -1877,20 +2760,18 @@ Config.Locations = {
             [4] = vector3(-1840.58, -1234.73, 13.017)
         },
         ["products"] = Config.Products["foodtruck4"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["pizzeria"] = {
         ["label"] = "Pizzeria Luchetti's",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(290.2691, -976.333, 29.433)
         },
-        ["products"] = Config.Products["pizza"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["pizzeria"],
+        ["showblip"] = false
     },
     ["hotdogstand1"] = {
         ["label"] = "Hetenond",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-1685.02, -1125.16, 13.152),
             [2] = vector3(-1836.20, -1232.72, 13.017),
@@ -1898,75 +2779,172 @@ Config.Locations = {
             [4] = vector3(1472.477, 3233.679, 40.659)
         },
         ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["hotdogstand2"] = {
         ["label"] = "Hetenond",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-1721.05, -1102.82, 13.036)
         },
         ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["hotdogstand3"] = {
         ["label"] = "Hetenond",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-1636.77, -1083.99, 13.061)
         },
         ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["cafesandy1"] = {
         ["label"] = "De zuipschuit",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(1948.349, 3843.324, 32.223)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["cafesandy2"] = {
         ["label"] = "Hapje Tapje",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(1985.682, 3053.720, 47.215)
         },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false
     },
     ["hamburgerstand1"] = {
         ["label"] = "Vettig & Prettig",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-1695.06, -1071.73, 13.041)
         },
         ["products"] = Config.Products["hamburgerstand"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["hamburgerstand2"] = {
         ["label"] = "Vettig & Prettig",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(-1692.40, -1134.35, 13.155)
         },
         ["products"] = Config.Products["hamburgerstand"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["islandbar"] = {
         ["label"] = "Party Bar",
-        ["type"] = "normal",
         ["coords"] = {
             [1] = vector3(4906.671, -4938.98, 3.3867),
             [2] = vector3(4903.75, -4940.28, 3.3614),
             [3] = vector3(4900.820, -4942.57, 3.3817)
         },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
 
+    ["GABZ-ARCADE"] = {
+        ["label"] = "Luna Drinks",
+        ["coords"] = {
+            [1] = vector3(-1657.24, -1063.01, 12.160),
+            [2] = vector3(-1654.56, -1063.58, 12.160)
+        },
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = false,
+        ["blipsprite"] = 93
+    },
+
+    ["GABZ-BOWLING"] = {
+        ["label"] = "T Kegeltje",
+        ["coords"] = {
+            [1] = vector3(755.0675, -768.284, 26.337)
+        },
+        ["products"] = Config.Products["snackbar"],
+        ["showblip"] = false,
+        ["blipsprite"] = 546
+    },
+
+
+    ["GABZ-UWUCAFE"] = {
+        ["label"] = "Cat Snack",
+        ["coords"] = {
+            [1] = vector3(-583.401, -1060.43, 22.344)
+        },
+        ["products"] = Config.Products["catsnack"],
+        ["showblip"] = false
+    },
+
+    ["GABZ-POPSDINER"] = {
+        ["label"] = "Pops Diner",
+        ["coords"] = {
+            [1] = vector3(1593.278, 6453.262, 26.013),
+            [2] = vector3(1593.278, 6453.262, 26.013)
+        },
+        ["products"] = Config.Products["popsdiner"],
+        ["showblip"] = false,
+        ["blipsprite"] = 436
+    },
+    
+    ["GABZ-LOSTMC"] = {
+        ["label"] = "Metal Drink",
+        ["coords"] = {
+            [1] = vector3(982.2633, -130.122, 78.890),
+            [2] = vector3(988.4075, -96.4304, 74.845)
+        },
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false
+    },
+    
+
+    ["GABZ-PIZZERIA"] = {
+        ["label"] = "Pizzeria",
+        ["coords"] = {
+            [1] = vector3(810.2550, -752.892, 26.780)
+        },
+        ["products"] = Config.Products["pizzeria"],
+        ["showblip"] = false,
+        ["blipsprite"] = 436
+    },      
+
+    ["GABZ-TUNERSSHOP"] = {
+        ["label"] = "Bitank",
+        ["coords"] = {
+            [1] = vector3(148.1478, -3014.80, 7.0408)
+        },
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = false,
+        ["blipsprite"] = 93
+    },    
+
+    ["irishpub"] = {
+        ["label"] = "Irish Pub",
+        ["coords"] = {
+            [1] = vector3(837.2896, -113.493, 79.774),
+            [2] = vector3(839.5347, -117.179, 79.774)
+        },
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = false,
+        ["blipsprite"] = 93
+    },    
+
+    ["drusillas"] = {
+        ["label"] = "Drusillas Pizzeria",
+        ["coords"] = {
+            [1] = vector3(-1345.34, -1066.60, 7.3899)
+        },
+        ["products"] = Config.Products["pizzeria"],
+        ["showblip"] = false,
+        ["blipsprite"] = 93
+    },    
+
+    ["salierisbar"] = {
+        ["label"] = "Salieris Bar",
+        ["coords"] = {
+            [1] = vector3(320.9268, -1089.31, 29.391)
+        },
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = false,
+        ["blipsprite"] = 93
+    },    
+    
     -- Local Store Locations
     ["delvecchioliquor"] = {
         ["label"] = "Del Vecchio Liquor",
@@ -1975,7 +2953,7 @@ Config.Locations = {
             [2] = vector3(-160.66, 6322.85, 31.58)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["donscountrystore"] = {
@@ -1985,7 +2963,7 @@ Config.Locations = {
             [2] = vector3(163.04, 6642.45, 31.70)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     }
     
