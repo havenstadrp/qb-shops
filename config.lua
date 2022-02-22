@@ -2341,7 +2341,7 @@ Config.Locations = {
             [1] = vector3(-1222.77, -907.19, 12.32)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor2"] = {
@@ -2350,7 +2350,7 @@ Config.Locations = {
             [1] = vector3(-1487.7, -378.53, 40.16)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor3"] = {
@@ -2359,7 +2359,7 @@ Config.Locations = {
             [1] = vector3(-2967.79, 391.64, 15.04)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor4"] = {
@@ -2368,7 +2368,7 @@ Config.Locations = {
             [1] = vector3(1165.28, 2709.4, 38.15)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["robsliquor5"] = {
@@ -2377,7 +2377,7 @@ Config.Locations = {
             [1] = vector3(1135.66, -982.76, 46.41)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
 
@@ -2388,7 +2388,7 @@ Config.Locations = {
             [1] = vector3(45.55, -1749.01, 29.6)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 402
     },
     ["hardware2"] = {
@@ -2397,7 +2397,7 @@ Config.Locations = {
             [1] = vector3(2747.8, 3472.86, 55.67)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 402
     },
     ["hardware3"] = {
@@ -2406,7 +2406,7 @@ Config.Locations = {
             [1] = vector3(-421.84, 6136.09, 31.78)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     },   
     ["hardware4"] = {
         ["label"] = "Hardware Store",
@@ -2414,7 +2414,7 @@ Config.Locations = {
             [1] = vector3(1707.846, 4792.051, 41.983)
         },
         ["products"] = Config.Products["hardware"],
-        ["showblip"] = true,
+        ["showblip"] = false,
     }, 
 
     -- Ammunation Locations
@@ -2498,7 +2498,7 @@ Config.Locations = {
             [1] = vector3(948.3834, 34.21247, 71.839)
         },
         ["products"] = Config.Products["casino"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 617
     },
     ["casino2"] = {
@@ -2517,7 +2517,7 @@ Config.Locations = {
             [1] = vector3(-1172.43, -1572.24, 4.66)
         },
         ["products"] = Config.Products["weedshop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 140
     },
 
@@ -2528,7 +2528,7 @@ Config.Locations = {
             [1] = vector3(-633.72, 236.15, 81.88)
         },
         ["products"] = Config.Products["coffeeplace"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 214
     },
 
@@ -2539,7 +2539,7 @@ Config.Locations = {
     --         [1] = vector3(-1686.9, -1072.23, 13.15)
     --     },
     --     ["products"] = Config.Products["gearshop"],
-    --     ["showblip"] = true,
+    --     ["showblip"] = false,
     --     ["blipsprite"] = 52
     -- },
 
@@ -2550,7 +2550,7 @@ Config.Locations = {
             [1] = vector3(-1505.91, 1511.78, 115.29)
         },
         ["products"] = Config.Products["leisureshop"], -- Scuba gear, verrekijker, ....
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 729
     },   
 
@@ -2560,7 +2560,7 @@ Config.Locations = {
             [1] = vector3(-1211.10, -1461.95, 4.3299)
         },
         ["products"] = Config.Products["leisureshop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 729
     },
     ["fishing"] = {
@@ -2569,7 +2569,7 @@ Config.Locations = {
             [1] = vector3(1300.804, 4318.823, 38.158)
         },
         ["products"] = Config.Products["fishing"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 754
     },
     ["popeyes"] = {
@@ -2580,7 +2580,7 @@ Config.Locations = {
             [3] = vector3(175.7259, -1444.64, 29.130)
         },
         ["products"] = Config.Products["kfc"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 436
     },
     ["tequilala"] = {
@@ -2589,7 +2589,7 @@ Config.Locations = {
             [1] = vector3(-560.156, 286.7287, 82.176)
         },
         ["products"] = Config.Products["bar"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 436
     },
     ["nachtwinkel"] = {
@@ -2598,7 +2598,7 @@ Config.Locations = {
             [1] = vector3(1392.991, 3605.047, 34.980)
         },
         ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 430
     },
     ["groveshop"] = {
@@ -2607,7 +2607,7 @@ Config.Locations = {
             [1] = vector3(-6.50999, -1822.99, 25.319)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
 
     },
@@ -2617,7 +2617,7 @@ Config.Locations = {
             [1] = vector3(-674.994, 5836.406, 17.340)
         },
         ["products"] = Config.Products["huntingshop"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 141
     },
     ["mcdo"] = {
@@ -2626,7 +2626,7 @@ Config.Locations = {
             [1] = vector3(-401.569, 6070.488, 31.500)
         },
         ["products"] = Config.Products["mcdo"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 78
     },
     ["burgershot"] = {
@@ -2635,7 +2635,7 @@ Config.Locations = {
             [1] = vector3(-1193.99, -892.735, 13.995)
         },
         ["products"] = Config.Products["mcdo"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 106
     },
     ["mojito"] = {
@@ -2655,7 +2655,7 @@ Config.Locations = {
             [1] = vector3(-114.662, 6391.205, 32.180)
         },
         ["products"] = Config.Products["bar"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 93
     },
     ["lostmcbar"] = {
@@ -2680,7 +2680,7 @@ Config.Locations = {
             [1] = vector3(127.6457, -1284.81, 29.269)
         },
         ["products"] = Config.Products["bar"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 279
     },
     ["applestore"] = {
@@ -2697,25 +2697,25 @@ Config.Locations = {
             [1] = vector3(376.5866, -829.494, 29.291)
         },
         ["products"] = Config.Products["apotheek"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 51
     },
-    ["apotheek2"] = {
-        ["label"] = "Apotheek Prik"
-        ["coords"] = {
-            [1] = vector3(1830.675, 3681.634, 34.270)
-        },
-        ["products"] = Config.Products["apotheek"],
-        ["showblip"] = true,
-        ["blipsprite"] = 51
-    },
+    -- ["apotheek2"] = {
+    --     ["label"] = "Apotheek Prik"
+    --     ["coords"] = {
+    --         [1] = vector3(1830.675, 3681.634, 34.270)
+    --     },
+    --     ["products"] = Config.Products["apotheek"],
+    --     ["showblip"] = false,
+    --     ["blipsprite"] = 51
+    -- },
     ["zuipschuit"] = {
         ["label"] = "De Zuipschuit",
         ["coords"] = {
             [1] = vector3(123.9724, -1034.67, 29.277)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["zuipschuit2"] = {
         ["label"] = "De Zuipschuit",
@@ -2723,7 +2723,7 @@ Config.Locations = {
             [1] = vector3(131.5506, -1053.67, 22.960)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["hetblokje"] = {
         ["label"] = "Het Blokje",
@@ -2731,7 +2731,7 @@ Config.Locations = {
             [1] = vector3(188.9495, -917.992, 31.193)
         },
         ["products"] = Config.Products["foodtruck1"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["kremglaze"] = {
         ["label"] = "Krem Glaze",
@@ -2741,7 +2741,7 @@ Config.Locations = {
             [3] = vector3(-1687.58, -1105.00, 13.152)
         },
         ["products"] = Config.Products["foodtruck2"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["foodtruck"] = {
         ["label"] = "Foodtruck",
@@ -2749,7 +2749,7 @@ Config.Locations = {
             [1] = vector3(1472.335, 3240.696, 40.659)
         },
         ["products"] = Config.Products["foodtruck3"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["tgazetje"] = {
         ["label"] = "'t Gazetje",
@@ -2760,7 +2760,7 @@ Config.Locations = {
             [4] = vector3(-1840.58, -1234.73, 13.017)
         },
         ["products"] = Config.Products["foodtruck4"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["pizzeria"] = {
         ["label"] = "Pizzeria Luchetti's",
@@ -2768,7 +2768,7 @@ Config.Locations = {
             [1] = vector3(290.2691, -976.333, 29.433)
         },
         ["products"] = Config.Products["pizzeria"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["hotdogstand1"] = {
         ["label"] = "Hetenond",
@@ -2779,7 +2779,7 @@ Config.Locations = {
             [4] = vector3(1472.477, 3233.679, 40.659)
         },
         ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["hotdogstand2"] = {
         ["label"] = "Hetenond",
@@ -2787,7 +2787,7 @@ Config.Locations = {
             [1] = vector3(-1721.05, -1102.82, 13.036)
         },
         ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["hotdogstand3"] = {
         ["label"] = "Hetenond",
@@ -2795,7 +2795,7 @@ Config.Locations = {
             [1] = vector3(-1636.77, -1083.99, 13.061)
         },
         ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false,
+        ["showblip"] = false
     },
     ["cafesandy1"] = {
         ["label"] = "De zuipschuit",
@@ -2803,7 +2803,7 @@ Config.Locations = {
             [1] = vector3(1948.349, 3843.324, 32.223)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["cafesandy2"] = {
         ["label"] = "Hapje Tapje",
@@ -2811,7 +2811,7 @@ Config.Locations = {
             [1] = vector3(1985.682, 3053.720, 47.215)
         },
         ["products"] = Config.Products["bar"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["hamburgerstand1"] = {
         ["label"] = "Vettig & Prettig",
@@ -2819,7 +2819,7 @@ Config.Locations = {
             [1] = vector3(-1695.06, -1071.73, 13.041)
         },
         ["products"] = Config.Products["hamburgerstand"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["hamburgerstand2"] = {
         ["label"] = "Vettig & Prettig",
@@ -2827,7 +2827,7 @@ Config.Locations = {
             [1] = vector3(-1692.40, -1134.35, 13.155)
         },
         ["products"] = Config.Products["hamburgerstand"],
-        ["showblip"] = true,
+        ["showblip"] = false
     },
     ["islandbar"] = {
         ["label"] = "Party Bar",
@@ -2837,11 +2837,9 @@ Config.Locations = {
             [3] = vector3(4900.820, -4942.57, 3.3817)
         },
         ["products"] = Config.Products["bar"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
-
-
 
     ["GABZ-ARCADE"] = {
         ["label"] = "Luna Drinks",
@@ -2850,7 +2848,7 @@ Config.Locations = {
             [2] = vector3(-1654.56, -1063.58, 12.160)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 93
     },
 
@@ -2860,7 +2858,7 @@ Config.Locations = {
             [1] = vector3(755.0675, -768.284, 26.337)
         },
         ["products"] = Config.Products["snackbar"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 546
     },
 
@@ -2881,7 +2879,7 @@ Config.Locations = {
             [2] = vector3(1593.278, 6453.262, 26.013)
         },
         ["products"] = Config.Products["popsdiner"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 436
     },
     
@@ -2902,7 +2900,7 @@ Config.Locations = {
             [1] = vector3(810.2550, -752.892, 26.780)
         },
         ["products"] = Config.Products["pizzeria"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 436
     },      
 
@@ -2912,7 +2910,7 @@ Config.Locations = {
             [1] = vector3(148.1478, -3014.80, 7.0408)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 93
     },    
 
@@ -2923,7 +2921,7 @@ Config.Locations = {
             [2] = vector3(839.5347, -117.179, 79.774)
         },
         ["products"] = Config.Products["bar"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 93
     },    
 
@@ -2933,7 +2931,7 @@ Config.Locations = {
             [1] = vector3(-1345.34, -1066.60, 7.3899)
         },
         ["products"] = Config.Products["pizzeria"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 93
     },    
 
@@ -2943,7 +2941,7 @@ Config.Locations = {
             [1] = vector3(320.9268, -1089.31, 29.391)
         },
         ["products"] = Config.Products["cafe"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 93
     },    
     
@@ -2955,7 +2953,7 @@ Config.Locations = {
             [2] = vector3(-160.66, 6322.85, 31.58)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     },
     ["donscountrystore"] = {
@@ -2965,7 +2963,7 @@ Config.Locations = {
             [2] = vector3(163.04, 6642.45, 31.70)
         },
         ["products"] = Config.Products["normal"],
-        ["showblip"] = true,
+        ["showblip"] = false,
         ["blipsprite"] = 52
     }
     
