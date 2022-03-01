@@ -688,7 +688,7 @@ Config.Products = {
             slot = 1,
         },
         [2] = {
-            name = 'chickennuggets',
+            name = 'nuggets',
             price = 10,
             amount = 1000,
             info = {},
@@ -2492,15 +2492,15 @@ Config.Locations = {
     },
 
     -- Casino Locations
-    ["casino"] = {
-        ["label"] = "Diamond Casino",
-        ["coords"] = {
-            [1] = vector3(948.3834, 34.21247, 71.839)
-        },
-        ["products"] = Config.Products["casino"],
-        ["showblip"] = false,
-        ["blipsprite"] = 617
-    },
+    -- ["casino"] = {
+    --     ["label"] = "Diamond Casino",
+    --     ["coords"] = {
+    --         [1] = vector3(948.3834, 34.21247, 71.839)
+    --     },
+    --     ["products"] = Config.Products["casino"],
+    --     ["showblip"] = false,
+    --     ["blipsprite"] = 617
+    -- },
     ["casino2"] = {
         ["label"] = "Casino Bar",
         ["coords"] = {
