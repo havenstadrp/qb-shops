@@ -2233,14 +2233,6 @@ Config.Locations = {
     -- 24/7 Locations
     ["247supermarket"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(25.7, -1347.3, 29.49),
-            [2] = vector3(25.7, -1344.99, 29.49)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false
-=======
         ["coords"] = vector4(24.47, -1346.62, 29.5, 271.66),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2251,20 +2243,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket2"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(-3038.71, 585.9, 7.9),
-            [2] = vector3(-3041.04, 585.11, 7.9)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(-3039.54, 584.38, 7.91, 17.27),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2275,20 +2257,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket3"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(-3241.47, 1001.14, 12.83),
-            [2] = vector3(-3243.98, 1001.35, 12.83)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(-3242.97, 1000.01, 12.83, 357.57),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2299,20 +2271,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket4"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(1728.66, 6414.16, 35.03),
-            [2] = vector3(1729.72, 6416.27, 35.03)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(1728.07, 6415.63, 35.04, 242.95),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2323,20 +2285,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket5"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(1697.99, 4924.4, 42.06),
-            [2] = vector3(1699.44, 4923.47, 42.06)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(1959.82, 3740.48, 32.34, 301.57),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2347,20 +2299,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket6"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(1961.48, 3739.96, 32.34),
-            [2] = vector3(1960.22, 3742.12, 32.34)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(549.13, 2670.85, 42.16, 99.39),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2371,20 +2313,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket7"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(547.79, 2671.79, 42.15),
-            [2] = vector3(548.1, 2669.38, 42.15)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(2677.47, 3279.76, 55.24, 335.08),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2395,20 +2327,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket8"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(2679.25, 3280.12, 55.24),
-            [2] = vector3(2677.13, 281.38, 55.24)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(2556.66, 380.84, 108.62, 356.67),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2419,30 +2341,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["247supermarket9"] = {
         ["label"] = "24/7 Supermarket",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(2557.94, 382.05, 108.62),
-            [2] = vector3(2555.53, 382.18, 108.62)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-    },
-    ["247supermarket10"] = {
-        ["label"] = "24/7 Supermarket",
-        ["coords"] = {
-            [1] = vector3(373.55, 325.56, 103.56),
-            [2] = vector3(374.29, 327.9, 103.56)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(372.66, 326.98, 103.57, 253.73),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2453,7 +2355,6 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     -- LTD Gasoline Locations
@@ -2466,14 +2367,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-shopping-basket",
         ["targetLabel"] = "Open Shop",
         ["products"] = Config.Products["normal"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["ltdgasoline2"] = {
@@ -2485,14 +2381,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-shopping-basket",
         ["targetLabel"] = "Open Shop",
         ["products"] = Config.Products["normal"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["ltdgasoline3"] = {
@@ -2504,14 +2395,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-shopping-basket",
         ["targetLabel"] = "Open Shop",
         ["products"] = Config.Products["normal"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["ltdgasoline4"] = {
@@ -2537,27 +2423,14 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-shopping-basket",
         ["targetLabel"] = "Open Shop",
         ["products"] = Config.Products["normal"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     -- Rob's Liquor Locations
     ["robsliquor"] = {
         ["label"] = "Rob's Liqour",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(-1222.77, -907.19, 12.32)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(-1221.58, -908.15, 12.33, 35.49),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2568,19 +2441,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["robsliquor2"] = {
         ["label"] = "Rob's Liqour",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(-1487.7, -378.53, 40.16)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(-1486.59, -377.68, 40.16, 139.51),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2591,19 +2455,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["robsliquor3"] = {
         ["label"] = "Rob's Liqour",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(-2967.79, 391.64, 15.04)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(-2966.39, 391.42, 15.04, 87.48),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2614,19 +2469,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["robsliquor4"] = {
         ["label"] = "Rob's Liqour",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(1165.28, 2709.4, 38.15)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(1165.17, 2710.88, 38.16, 179.43),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2637,19 +2483,10 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["robsliquor5"] = {
         ["label"] = "Rob's Liqour",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(1135.66, -982.76, 46.41)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-=======
         ["coords"] = vector4(1134.2, -982.91, 46.42, 277.24),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -2660,7 +2497,6 @@ Config.Locations = {
         ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     -- Hardware Store Locations
@@ -2673,14 +2509,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-wrench",
         ["targetLabel"] = "Open Hardware Store",
         ["products"] = Config.Products["hardware"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 402
-=======
         ["showblip"] = true,
         ["blipsprite"] = 402,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["hardware2"] = {
@@ -2692,14 +2523,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-wrench",
         ["targetLabel"] = "Open Hardware Store",
         ["products"] = Config.Products["hardware"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 402
-=======
         ["showblip"] = true,
         ["blipsprite"] = 402,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     ["hardware3"] = {
@@ -2711,23 +2537,10 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-wrench",
         ["targetLabel"] = "Hardware Store",
         ["products"] = Config.Products["hardware"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-    },   
-    ["hardware4"] = {
-        ["label"] = "Hardware Store",
-        ["coords"] = {
-            [1] = vector3(1707.846, 4792.051, 41.983)
-        },
-        ["products"] = Config.Products["hardware"],
-        ["showblip"] = false,
-    }, 
-=======
         ["showblip"] = true,
         ["blipsprite"] = 402,
         ["blipcolor"] = 0
     },
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
 
     -- Ammunation Locations
     ["ammunation"] = {
@@ -2740,13 +2553,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation2"] = {
         ["label"] = "Ammunation",
@@ -2758,13 +2567,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation3"] = {
         ["label"] = "Ammunation",
@@ -2776,13 +2581,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation4"] = {
         ["label"] = "Ammunation",
@@ -2794,13 +2595,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation5"] = {
         ["label"] = "Ammunation",
@@ -2812,13 +2609,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation6"] = {
         ["label"] = "Ammunation",
@@ -2830,13 +2623,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation7"] = {
         ["label"] = "Ammunation",
@@ -2848,13 +2637,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation8"] = {
         ["label"] = "Ammunation",
@@ -2866,13 +2651,9 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
     ["ammunation9"] = {
         ["label"] = "Ammunation",
@@ -2884,28 +2665,6 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-gun",
         ["targetLabel"] = "Open Ammunation",
         ["products"] = Config.Products["weapons"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-    },
-
-    -- Casino Locations
-    -- ["casino"] = {
-    --     ["label"] = "Diamond Casino",
-    --     ["coords"] = {
-    --         [1] = vector3(948.3834, 34.21247, 71.839)
-    --     },
-    --     ["products"] = Config.Products["casino"],
-    --     ["showblip"] = false,
-    --     ["blipsprite"] = 617
-    -- },
-    ["casino2"] = {
-        ["label"] = "Casino Bar",
-        ["coords"] = {
-            [1] = vector3(936.1185, 28.61719, 71.833)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false
-=======
         ["showblip"] = true,
         ["blipsprite"] = 110,
         ["blipcolor"] = 0
@@ -2966,7 +2725,6 @@ Config.Locations = {
         ["showblip"] = false,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
     },
 
     -- Weedshop Locations
@@ -2979,33 +2737,6 @@ Config.Locations = {
         ["targetIcon"] = "fas fa-cannabis",
         ["targetLabel"] = "Open Weed Shop",
         ["products"] = Config.Products["weedshop"],
-<<<<<<< HEAD
-        ["showblip"] = false,
-        ["blipsprite"] = 140
-    },
-
-    -- Bean Coffee Locations
-    ["beancoffee"] = {
-        ["label"] = "Bean Machine Coffee",
-        ["coords"] = {
-            [1] = vector3(-633.72, 236.15, 81.88)
-        },
-        ["products"] = Config.Products["coffeeplace"],
-        ["showblip"] = false,
-        ["blipsprite"] = 214
-    },
-
-    -- Sea Word Locations
-    -- ["seaword1"] = {
-    --     ["label"] = "Sea Word",
-    --     ["coords"] = {
-    --         [1] = vector3(-1686.9, -1072.23, 13.15)
-    --     },
-    --     ["products"] = Config.Products["gearshop"],
-    --     ["showblip"] = false,
-    --     ["blipsprite"] = 52
-    -- },
-=======
         ["showblip"] = true,
         ["blipsprite"] = 140,
         ["blipcolor"] = 0
@@ -3025,434 +2756,10 @@ Config.Locations = {
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
     },
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
 
     -- Leisure Shop Locations
     ["leisureshop"] = {
         ["label"] = "Leisure Shop",
-<<<<<<< HEAD
-        ["coords"] = {
-            [1] = vector3(-1505.91, 1511.78, 115.29)
-        },
-        ["products"] = Config.Products["leisureshop"], -- Scuba gear, verrekijker, ....
-        ["showblip"] = false,
-        ["blipsprite"] = 729
-    },   
-
-    ["blubblub"] = {
-        ["label"] = "Blublub Shop",
-        ["coords"] = {
-            [1] = vector3(-1211.10, -1461.95, 4.3299)
-        },
-        ["products"] = Config.Products["leisureshop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 729
-    },
-    ["fishing"] = {
-        ["label"] = "Fishing",
-        ["coords"] = {
-            [1] = vector3(1300.804, 4318.823, 38.158)
-        },
-        ["products"] = Config.Products["fishing"],
-        ["showblip"] = false,
-        ["blipsprite"] = 754
-    },
-    ["popeyes"] = {
-        ["label"] = "Popeyes",
-        ["coords"] = {
-            [1] = vector3(173.7010, -1447.02, 29.130),
-            [2] = vector3(171.8998, -1449.20, 29.130),
-            [3] = vector3(175.7259, -1444.64, 29.130)
-        },
-        ["products"] = Config.Products["kfc"],
-        ["showblip"] = false,
-        ["blipsprite"] = 436
-    },
-    ["tequilala"] = {
-        ["label"] = "Tequi-la-la",
-        ["coords"] = {
-            [1] = vector3(-560.156, 286.7287, 82.176)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false,
-        ["blipsprite"] = 436
-    },
-    ["nachtwinkel"] = {
-        ["label"] = "Liquor Ace",
-        ["coords"] = {
-            [1] = vector3(1392.991, 3605.047, 34.980)
-        },
-        ["products"] = Config.Products["24/7shop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 430
-    },
-    ["groveshop"] = {
-        ["label"] = "Grove Shop",
-        ["coords"] = {
-            [1] = vector3(-6.50999, -1822.99, 25.319)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-
-    },
-    ["jachtwinkel"] = {
-        ["label"] = "Bayview Lodge Shop",
-        ["coords"] = {
-            [1] = vector3(-674.994, 5836.406, 17.340)
-        },
-        ["products"] = Config.Products["huntingshop"],
-        ["showblip"] = false,
-        ["blipsprite"] = 141
-    },
-    ["mcdo"] = {
-        ["label"] = "McDonalds",
-        ["coords"] = {
-            [1] = vector3(-401.569, 6070.488, 31.500)
-        },
-        ["products"] = Config.Products["mcdo"],
-        ["showblip"] = false,
-        ["blipsprite"] = 78
-    },
-    ["burgershot"] = {
-        ["label"] = "Burgershot",
-        ["coords"] = {
-            [1] = vector3(-1193.99, -892.735, 13.995)
-        },
-        ["products"] = Config.Products["mcdo"],
-        ["showblip"] = false,
-        ["blipsprite"] = 106
-    },
-    ["mojito"] = {
-        ["label"] = "Place 2 be",
-        ["coords"] = {
-            [1] = vector3(-117.148, 6388.420, 32.180),
-            [2] = vector3(-119.040, 6384.879, 32.180),
-            [3] = vector3(-115.335, 6379.151, 32.180),
-            [4] = vector3(-117.048, 6381.199, 32.180)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false
-    },
-    ["mojito2"] = {
-        ["label"] = "Place 2 be",
-        ["coords"] = {
-            [1] = vector3(-114.662, 6391.205, 32.180)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false,
-        ["blipsprite"] = 93
-    },
-    ["lostmcbar"] = {
-        ["label"] = "Hell",
-        ["coords"] = {
-            [1] = vector3(-21.9288, 6479.876, 31.493)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false
-    },
-    ["tacoshop"] = {
-        ["label"] = "The Taco Farmer",
-        ["coords"] = {
-            [1] = vector3(11.20908, -1605.64, 29.393)
-        },
-        ["products"] = Config.Products["taco"],
-        ["showblip"] = false
-    },
-    ["GABZ-VANILLAUNICORN"] = {
-        ["label"] = "Vanilla Unicorn Stripclub",
-        ["coords"] = {
-            [1] = vector3(127.6457, -1284.81, 29.269)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false,
-        ["blipsprite"] = 279
-    },
-    ["applestore"] = {
-        ["label"] = "Apple Store",
-        ["coords"] = {
-            [1] = vector3(149.1398, -232.863, 54.424)
-        },
-        ["products"] = Config.Products["applestore"],
-        ["showblip"] = false
-    },
-    ["apotheek"] = {
-        ["label"] = "Apotheek Prik",
-        ["coords"] = {
-            [1] = vector3(376.5866, -829.494, 29.291)
-        },
-        ["products"] = Config.Products["apotheek"],
-        ["showblip"] = false,
-        ["blipsprite"] = 51
-    },
-    -- ["apotheek2"] = {
-    --     ["label"] = "Apotheek Prik"
-    --     ["coords"] = {
-    --         [1] = vector3(1830.675, 3681.634, 34.270)
-    --     },
-    --     ["products"] = Config.Products["apotheek"],
-    --     ["showblip"] = false,
-    --     ["blipsprite"] = 51
-    -- },
-    ["zuipschuit"] = {
-        ["label"] = "De Zuipschuit",
-        ["coords"] = {
-            [1] = vector3(123.9724, -1034.67, 29.277)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false
-    },
-    ["zuipschuit2"] = {
-        ["label"] = "De Zuipschuit",
-        ["coords"] = {
-            [1] = vector3(131.5506, -1053.67, 22.960)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false
-    },
-    ["hetblokje"] = {
-        ["label"] = "Het Blokje",
-        ["coords"] = {
-            [1] = vector3(188.9495, -917.992, 31.193)
-        },
-        ["products"] = Config.Products["foodtruck1"],
-        ["showblip"] = false
-    },
-    ["kremglaze"] = {
-        ["label"] = "Krem Glaze",
-        ["coords"] = {
-            [1] = vector3(227.3142, -906.758, 30.692),
-            [2] = vector3(-1644.61, -1101.12, 13.019),
-            [3] = vector3(-1687.58, -1105.00, 13.152)
-        },
-        ["products"] = Config.Products["foodtruck2"],
-        ["showblip"] = false
-    },
-    ["foodtruck"] = {
-        ["label"] = "Foodtruck",
-        ["coords"] = {
-            [1] = vector3(1472.335, 3240.696, 40.659)
-        },
-        ["products"] = Config.Products["foodtruck3"],
-        ["showblip"] = false
-    },
-    ["tgazetje"] = {
-        ["label"] = "'t Gazetje",
-        ["coords"] = {
-            [1] = vector3(221.2743, -915.488, 30.692),
-            [2] = vector3(-1636.10, -1091.39, 13.028),
-            [3] = vector3(-1679.72, -1111.49, 13.152),
-            [4] = vector3(-1840.58, -1234.73, 13.017)
-        },
-        ["products"] = Config.Products["foodtruck4"],
-        ["showblip"] = false
-    },
-    ["pizzeria"] = {
-        ["label"] = "Pizzeria Luchetti's",
-        ["coords"] = {
-            [1] = vector3(290.2691, -976.333, 29.433)
-        },
-        ["products"] = Config.Products["pizzeria"],
-        ["showblip"] = false
-    },
-    ["hotdogstand1"] = {
-        ["label"] = "Hetenond",
-        ["coords"] = {
-            [1] = vector3(-1685.02, -1125.16, 13.152),
-            [2] = vector3(-1836.20, -1232.72, 13.017),
-            [3] = vector3(1948.229, 3850.219, 32.177),
-            [4] = vector3(1472.477, 3233.679, 40.659)
-        },
-        ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false
-    },
-    ["hotdogstand2"] = {
-        ["label"] = "Hetenond",
-        ["coords"] = {
-            [1] = vector3(-1721.05, -1102.82, 13.036)
-        },
-        ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false
-    },
-    ["hotdogstand3"] = {
-        ["label"] = "Hetenond",
-        ["coords"] = {
-            [1] = vector3(-1636.77, -1083.99, 13.061)
-        },
-        ["products"] = Config.Products["hotdogstand"],
-        ["showblip"] = false
-    },
-    ["cafesandy1"] = {
-        ["label"] = "De zuipschuit",
-        ["coords"] = {
-            [1] = vector3(1948.349, 3843.324, 32.223)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false
-    },
-    ["cafesandy2"] = {
-        ["label"] = "Hapje Tapje",
-        ["coords"] = {
-            [1] = vector3(1985.682, 3053.720, 47.215)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false
-    },
-    ["hamburgerstand1"] = {
-        ["label"] = "Vettig & Prettig",
-        ["coords"] = {
-            [1] = vector3(-1695.06, -1071.73, 13.041)
-        },
-        ["products"] = Config.Products["hamburgerstand"],
-        ["showblip"] = false
-    },
-    ["hamburgerstand2"] = {
-        ["label"] = "Vettig & Prettig",
-        ["coords"] = {
-            [1] = vector3(-1692.40, -1134.35, 13.155)
-        },
-        ["products"] = Config.Products["hamburgerstand"],
-        ["showblip"] = false
-    },
-    ["islandbar"] = {
-        ["label"] = "Party Bar",
-        ["coords"] = {
-            [1] = vector3(4906.671, -4938.98, 3.3867),
-            [2] = vector3(4903.75, -4940.28, 3.3614),
-            [3] = vector3(4900.820, -4942.57, 3.3817)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-    },
-
-    ["GABZ-ARCADE"] = {
-        ["label"] = "Luna Drinks",
-        ["coords"] = {
-            [1] = vector3(-1657.24, -1063.01, 12.160),
-            [2] = vector3(-1654.56, -1063.58, 12.160)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false,
-        ["blipsprite"] = 93
-    },
-
-    ["GABZ-BOWLING"] = {
-        ["label"] = "T Kegeltje",
-        ["coords"] = {
-            [1] = vector3(755.0675, -768.284, 26.337)
-        },
-        ["products"] = Config.Products["snackbar"],
-        ["showblip"] = false,
-        ["blipsprite"] = 546
-    },
-
-
-    ["GABZ-UWUCAFE"] = {
-        ["label"] = "Cat Snack",
-        ["coords"] = {
-            [1] = vector3(-583.401, -1060.43, 22.344)
-        },
-        ["products"] = Config.Products["catsnack"],
-        ["showblip"] = false
-    },
-
-    ["GABZ-POPSDINER"] = {
-        ["label"] = "Pops Diner",
-        ["coords"] = {
-            [1] = vector3(1593.278, 6453.262, 26.013),
-            [2] = vector3(1593.278, 6453.262, 26.013)
-        },
-        ["products"] = Config.Products["popsdiner"],
-        ["showblip"] = false,
-        ["blipsprite"] = 436
-    },
-    
-    ["GABZ-LOSTMC"] = {
-        ["label"] = "Metal Drink",
-        ["coords"] = {
-            [1] = vector3(982.2633, -130.122, 78.890),
-            [2] = vector3(988.4075, -96.4304, 74.845)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false
-    },
-    
-
-    ["GABZ-PIZZERIA"] = {
-        ["label"] = "Pizzeria",
-        ["coords"] = {
-            [1] = vector3(810.2550, -752.892, 26.780)
-        },
-        ["products"] = Config.Products["pizzeria"],
-        ["showblip"] = false,
-        ["blipsprite"] = 436
-    },      
-
-    ["GABZ-TUNERSSHOP"] = {
-        ["label"] = "Bitank",
-        ["coords"] = {
-            [1] = vector3(148.1478, -3014.80, 7.0408)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false,
-        ["blipsprite"] = 93
-    },    
-
-    ["irishpub"] = {
-        ["label"] = "Irish Pub",
-        ["coords"] = {
-            [1] = vector3(837.2896, -113.493, 79.774),
-            [2] = vector3(839.5347, -117.179, 79.774)
-        },
-        ["products"] = Config.Products["bar"],
-        ["showblip"] = false,
-        ["blipsprite"] = 93
-    },    
-
-    ["drusillas"] = {
-        ["label"] = "Drusillas Pizzeria",
-        ["coords"] = {
-            [1] = vector3(-1345.34, -1066.60, 7.3899)
-        },
-        ["products"] = Config.Products["pizzeria"],
-        ["showblip"] = false,
-        ["blipsprite"] = 93
-    },    
-
-    ["salierisbar"] = {
-        ["label"] = "Salieris Bar",
-        ["coords"] = {
-            [1] = vector3(320.9268, -1089.31, 29.391)
-        },
-        ["products"] = Config.Products["cafe"],
-        ["showblip"] = false,
-        ["blipsprite"] = 93
-    },    
-    
-    -- Local Store Locations
-    ["delvecchioliquor"] = {
-        ["label"] = "Del Vecchio Liquor",
-        ["coords"] = {
-            [1] = vector3(-159.36, 6321.59, 31.58),
-            [2] = vector3(-160.66, 6322.85, 31.58)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-    },
-    ["donscountrystore"] = {
-        ["label"] = "Don's Country Store",
-        ["coords"] = {
-            [1] = vector3(161.41, 6640.78, 31.69),
-            [2] = vector3(163.04, 6642.45, 31.70)
-        },
-        ["products"] = Config.Products["normal"],
-        ["showblip"] = false,
-        ["blipsprite"] = 52
-    }
-    
-=======
         ["coords"] = vector4(-1505.91, 1511.95, 115.29, 257.13),
         ["ped"] = 'a_m_y_beach_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
@@ -3464,5 +2771,4 @@ Config.Locations = {
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
     },
->>>>>>> 1538c5f0c49a0d39d63bcbf5e14291616d730ae4
 }
