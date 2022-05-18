@@ -11,7 +11,7 @@ Config.Products = {
     ["normal"] = {
         [1] = {
             name = "tosti",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -19,7 +19,7 @@ Config.Products = {
         },
         [2] = {
             name = "water_bottle",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -27,7 +27,7 @@ Config.Products = {
         },
         [3] = {
             name = "kurkakola",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -35,7 +35,7 @@ Config.Products = {
         },
         [4] = {
             name = "twerks_candy",
-            price = 2,
+            price = 0.60,
             amount = 50,
             info = {},
             type = "item",
@@ -43,7 +43,7 @@ Config.Products = {
         },
         [5] = {
             name = "snikkel_candy",
-            price = 2,
+            price = 0.60,
             amount = 50,
             info = {},
             type = "item",
@@ -51,7 +51,7 @@ Config.Products = {
         },
         [6] = {
             name = "sandwich",
-            price = 2,
+            price = 1.50,
             amount = 50,
             info = {},
             type = "item",
@@ -59,7 +59,7 @@ Config.Products = {
         },
         [7] = {
             name = "beer",
-            price = 7,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -67,7 +67,7 @@ Config.Products = {
         },
         [8] = {
             name = "whiskey",
-            price = 10,
+            price = 9.00,
             amount = 50,
             info = {},
             type = "item",
@@ -75,7 +75,7 @@ Config.Products = {
         },
         [9] = {
             name = "vodka",
-            price = 12,
+            price = 9.00,
             amount = 50,
             info = {},
             type = "item",
@@ -83,7 +83,7 @@ Config.Products = {
         },
         [10] = {
             name = "bandage",
-            price = 100,
+            price = 500.00,
             amount = 50,
             info = {},
             type = "item",
@@ -91,7 +91,7 @@ Config.Products = {
         },
         [11] = {
             name = "lighter",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -99,7 +99,7 @@ Config.Products = {
         },
         [12] = {
             name = "rolling_paper",
-            price = 2,
+            price = 1.50,
             amount = 5000,
             info = {},
             type = "item",
@@ -111,7 +111,7 @@ Config.Products = {
     ["24/7shop"] = {
         [1] = {
             name = "water_bottle",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -119,7 +119,7 @@ Config.Products = {
         },
         [2] = {
             name = "kurkakola",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -127,7 +127,7 @@ Config.Products = {
         },
         [3] = {
             name = "fanta",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -135,7 +135,7 @@ Config.Products = {
         },
         [4] = {
             name = "sprite",
-            price = 2,
+            price = 2.00,
             amount = 50,
             info = {},
             type = "item",
@@ -143,7 +143,7 @@ Config.Products = {
         },
         [5] = {
             name = "redbull",
-            price = 2,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -151,7 +151,7 @@ Config.Products = {
         },
         [6] = {
             name = "espresso",
-            price = 2,
+            price = 2.30,
             amount = 50,
             info = {},
             type = "item",
@@ -159,7 +159,7 @@ Config.Products = {
         },
         [7] = {
             name = "green_tea",
-            price = 7,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -167,7 +167,7 @@ Config.Products = {
         },
         [8] = {
             name = "cappuccino",
-            price = 10,
+            price = 2.30,
             amount = 50,
             info = {},
             type = "item",
@@ -175,7 +175,7 @@ Config.Products = {
         },
         [9] = {
             name = "earl_grey_tea",
-            price = 12,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -183,7 +183,7 @@ Config.Products = {
         },
         [10] = {
             name = "stella",
-            price = 100,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -191,7 +191,7 @@ Config.Products = {
         },
         [11] = {
             name = "duvel",
-            price = 2,
+            price = 3.0,
             amount = 50,
             info = {},
             type = "item",
@@ -199,7 +199,7 @@ Config.Products = {
         },
         [12] = {
             name = "corona",
-            price = 2,
+            price = 5.0,
             amount = 5000,
             info = {},
             type = "item",
@@ -207,7 +207,7 @@ Config.Products = {
         },
         [13] = {
             name = "jupiler",
-            price = 2,
+            price = 2.0,
             amount = 5000,
             info = {},
             type = "item",
@@ -215,7 +215,7 @@ Config.Products = {
         },
         [14] = {
             name = "carapils",
-            price = 2,
+            price = 1.50,
             amount = 5000,
             info = {},
             type = "item",
@@ -223,7 +223,7 @@ Config.Products = {
         },
         [15] = {
             name = "donut",
-            price = 2,
+            price = 1.50,
             amount = 5000,
             info = {},
             type = "item",
@@ -231,7 +231,7 @@ Config.Products = {
         },
         [16] = {
             name = "cookie",
-            price = 2,
+            price = 1.20,
             amount = 5000,
             info = {},
             type = "item",
@@ -239,7 +239,7 @@ Config.Products = {
         },
         [17] = {
             name = "tosti",
-            price = 2,
+            price = 20.00,
             amount = 5000,
             info = {},
             type = "item",
@@ -247,7 +247,7 @@ Config.Products = {
         },
         [18] = {
             name = "sandwich",
-            price = 2,
+            price = 1.50,
             amount = 5000,
             info = {},
             type = "item",
@@ -255,7 +255,7 @@ Config.Products = {
         },
         [19] = {
             name = "chips",
-            price = 2,
+            price = 0.90,
             amount = 5000,
             info = {},
             type = "item",
@@ -263,7 +263,7 @@ Config.Products = {
         },
         [20] = {
             name = "popcorn",
-            price = 2,
+            price = 20.00,
             amount = 5000,
             info = {},
             type = "item",
@@ -271,7 +271,7 @@ Config.Products = {
         },
         [21] = {
             name = "twerks_candy",
-            price = 2,
+            price = 0.60,
             amount = 5000,
             info = {},
             type = "item",
@@ -279,7 +279,7 @@ Config.Products = {
         },
         [22] = {
             name = "snikkel_candy",
-            price = 2,
+            price = 0.60,
             amount = 5000,
             info = {},
             type = "item",
@@ -289,7 +289,7 @@ Config.Products = {
     ["liquor"] = {
         [1] = {
             name = "beer",
-            price = 7,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -297,7 +297,7 @@ Config.Products = {
         },
         [2] = {
             name = "whiskey",
-            price = 10,
+            price = 9.00,
             amount = 50,
             info = {},
             type = "item",
@@ -305,7 +305,7 @@ Config.Products = {
         },
         [3] = {
             name = "vodka",
-            price = 12,
+            price = 9.00,
             amount = 50,
             info = {},
             type = "item",
@@ -315,7 +315,7 @@ Config.Products = {
     ["hardware"] = {
         [1] = {
             name = "lockpick",
-            price = 200,
+            price = 200.00,
             amount = 50,
             info = {},
             type = "item",
@@ -323,7 +323,7 @@ Config.Products = {
         },
         [2] = {
             name = "weapon_wrench",
-            price = 250,
+            price = 250.00,
             amount = 250,
             info = {},
             type = "item",
@@ -331,7 +331,7 @@ Config.Products = {
         },
         [3] = {
             name = "weapon_hammer",
-            price = 250,
+            price = 250.00,
             amount = 250,
             info = {},
             type = "item",
@@ -339,7 +339,7 @@ Config.Products = {
         },
         [4] = {
             name = "repairkit",
-            price = 250,
+            price = 250.00,
             amount = 50,
             info = {},
             type = "item",
@@ -348,7 +348,7 @@ Config.Products = {
         },
         [5] = {
             name = "screwdriverset",
-            price = 350,
+            price = 50.00,
             amount = 50,
             info = {},
             type = "item",
@@ -356,7 +356,7 @@ Config.Products = {
         },
         [6] = {
             name = "phone",
-            price = 850,
+            price = 850.00,
             amount = 50,
             info = {},
             type = "item",
@@ -364,7 +364,7 @@ Config.Products = {
         },
         [7] = {
             name = "radio",
-            price = 250,
+            price = 250.00,
             amount = 50,
             info = {},
             type = "item",
@@ -372,7 +372,7 @@ Config.Products = {
         },
         [8] = {
             name = "binoculars",
-            price = 50,
+            price = 150.00,
             amount = 50,
             info = {},
             type = "item",
@@ -380,7 +380,7 @@ Config.Products = {
         },
         [9] = {
             name = "firework1",
-            price = 50,
+            price = 160.00,
             amount = 50,
             info = {},
             type = "item",
@@ -388,7 +388,7 @@ Config.Products = {
         },
         [10] = {
             name = "firework2",
-            price = 50,
+            price = 160.00,
             amount = 50,
             info = {},
             type = "item",
@@ -396,7 +396,7 @@ Config.Products = {
         },
         [11] = {
             name = "firework3",
-            price = 50,
+            price = 160.00,
             amount = 50,
             info = {},
             type = "item",
@@ -404,7 +404,7 @@ Config.Products = {
         },
         [12] = {
             name = "firework4",
-            price = 50,
+            price = 160.00,
             amount = 50,
             info = {},
             type = "item",
@@ -412,7 +412,7 @@ Config.Products = {
         },
         [13] = {
             name = "fitbit",
-            price = 400,
+            price = 180.00,
             amount = 150,
             info = {},
             type = "item",
@@ -420,7 +420,7 @@ Config.Products = {
         },
         [14] = {
             name = "cleaningkit",
-            price = 150,
+            price = 30.00,
             amount = 150,
             info = {},
             type = "item",
@@ -428,7 +428,7 @@ Config.Products = {
         },
         [15] = {
             name = "advancedrepairkit",
-            price = 500,
+            price = 500.00,
             amount = 50,
             info = {},
             type = "item",
@@ -439,7 +439,7 @@ Config.Products = {
     ["weedshop"] = {
         [1] = {
             name = "joint",
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = "item",
@@ -447,7 +447,7 @@ Config.Products = {
         },
         [2] = {
             name = "weapon_poolcue",
-            price = 100,
+            price = 80.00,
             amount = 1000,
             info = {},
             type = "item",
@@ -455,7 +455,7 @@ Config.Products = {
         },
         [3] = {
             name = "weed_nutrition",
-            price = 20,
+            price = 100.00,
             amount = 1000,
             info = {},
             type = "item",
@@ -463,7 +463,7 @@ Config.Products = {
         },
         [4] = {
             name = "empty_weed_bag",
-            price = 2,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = "item",
@@ -471,7 +471,7 @@ Config.Products = {
         },
         [5] = {
             name = "rolling_paper",
-            price = 2,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = "item",
@@ -481,7 +481,7 @@ Config.Products = {
     ["gearshop"] = {
         [1] = {
             name = "diving_gear",
-            price = 2500,
+            price = 2500.00,
             amount = 10,
             info = {},
             type = "item",
@@ -489,7 +489,7 @@ Config.Products = {
         },
         [2] = {
             name = "jerry_can",
-            price = 200,
+            price = 200.00,
             amount = 50,
             info = {},
             type = "item",
@@ -499,7 +499,7 @@ Config.Products = {
     ["leisureshop"] = {
         [1] = {
             name = "parachute",
-            price = 2500,
+            price = 200.00,
             amount = 10,
             info = {},
             type = "item",
@@ -507,7 +507,7 @@ Config.Products = {
         },
         [2] = {
             name = "binoculars",
-            price = 50,
+            price = 150.00,
             amount = 50,
             info = {},
             type = "item",
@@ -515,7 +515,7 @@ Config.Products = {
         },    
         [3] = {
             name = "diving_gear",
-            price = 2500,
+            price = 2500.00,
             amount = 10,
             info = {},
             type = "item",
@@ -523,80 +523,80 @@ Config.Products = {
         },
         -- [4] = {
         --     name = "smoketrailred",
-        --     price = 250,
+        --     price = 250.00,
         --     amount = 50,
         --     info = {},
         --     type = "item",
         --     slot = 4,
         -- },
     },
-    ["weapons"] = {
-        [1] = {
-            name = "weapon_knife",
-            price = 250,
-            amount = 250,
-            info = {},
-            type = "item",
-            slot = 1,
-        },
-        [2] = {
-            name = "weapon_bat",
-            price = 250,
-            amount = 250,
-            info = {},
-            type = "item",
-            slot = 2,
-        },
-        [3] = {
-            name = "weapon_hatchet",
-            price = 250,
-            amount = 250,
-            info = {},
-            type = "item",
-            slot = 3,
-            requiredJob = { "mechanic", "police" }
-        },
-        [4] = {
-            name = "weapon_pistol",
-            price = 2500,
-            amount = 5,
-            info = {},
-            type = "item",
-            slot = 4,
-            requiresLicense = true
-        },
-        [5] = {
-            name = "weapon_snspistol",
-            price = 1500,
-            amount = 5,
-            info = {},
-            type = "item",
-            slot = 5,
-            requiresLicense = true
-        },
-        [6] = {
-            name = "weapon_vintagepistol",
-            price = 4000,
-            amount = 5,
-            info = {},
-            type = "item",
-            slot = 6,
-            requiresLicense = true
-        },
-        [7] = {
-            name = "pistol_ammo",
-            price = 250,
-            amount = 250,
-            info = {},
-            type = "item",
-            slot = 7,
-            requiresLicense = true
-        },
-    },
+    -- ["weapons"] = {
+    --     [1] = {
+    --         name = "weapon_knife",
+    --         price = 250.00,
+    --         amount = 250,
+    --         info = {},
+    --         type = "item",
+    --         slot = 1,
+    --     },
+    --     [2] = {
+    --         name = "weapon_bat",
+    --         price = 100.00,
+    --         amount = 250,
+    --         info = {},
+    --         type = "item",
+    --         slot = 2,
+    --     },
+    --     [3] = {
+    --         name = "weapon_hatchet",
+    --         price = 50.00,
+    --         amount = 250,
+    --         info = {},
+    --         type = "item",
+    --         slot = 3,
+    --         requiredJob = { "mechanic", "police" }
+    --     },
+    --     [4] = {
+    --         name = "weapon_pistol",
+    --         price = 2500.00,
+    --         amount = 5,
+    --         info = {},
+    --         type = "item",
+    --         slot = 4,
+    --         requiresLicense = true
+    --     },
+    --     [5] = {
+    --         name = "weapon_snspistol",
+    --         price = 1500,
+    --         amount = 5,
+    --         info = {},
+    --         type = "item",
+    --         slot = 5,
+    --         requiresLicense = true
+    --     },
+    --     [6] = {
+    --         name = "weapon_vintagepistol",
+    --         price = 4000,
+    --         amount = 5,
+    --         info = {},
+    --         type = "item",
+    --         slot = 6,
+    --         requiresLicense = true
+    --     },
+    --     [7] = {
+    --         name = "pistol_ammo",
+    --         price = 250.00,
+    --         amount = 250,
+    --         info = {},
+    --         type = "item",
+    --         slot = 7,
+    --         requiresLicense = true
+    --     },
+    -- },
     ["coffeeplace"] = {
         [1] = {
             name = "coffee",
-            price = 25,
+            price = 2.50,
             amount = 500,
             info = {},
             type = "item",
@@ -604,7 +604,7 @@ Config.Products = {
         },
         [2] = {
             name = "cake",
-            price = 25,
+            price = 4.00,
             amount = 50,
             info = {},
             type = "item",
@@ -612,7 +612,7 @@ Config.Products = {
         },
         [3] = {
             name = "pie",
-            price = 25,
+            price = 1.50,
             amount = 50,
             info = {},
             type = "item",
@@ -620,7 +620,7 @@ Config.Products = {
         },
         [4] = {
             name = "donut",  
-            price = 25,
+            price = 1.50,
             amount = 50,
             info = {},
             type = "item",
@@ -628,7 +628,7 @@ Config.Products = {
         },
         [5] = {
             name = "green_tea",
-            price = 25,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -636,7 +636,7 @@ Config.Products = {
         },
         [6] = {
             name = "frappuccino",
-            price = 25,
+            price = 2.30,
             amount = 50,
             info = {},
             type = "item",
@@ -644,7 +644,7 @@ Config.Products = {
         },
         [7] = {
             name = "espresso",
-            price = 25,
+            price = 2.30,
             amount = 50,
             info = {},
             type = "item",
@@ -652,7 +652,7 @@ Config.Products = {
         },
         [8] = {
             name = "cappuccino",
-            price = 25,
+            price = 2.30,
             amount = 50,
             info = {},
             type = "item",
@@ -660,7 +660,7 @@ Config.Products = {
         },
         [9] = {
             name = "mint_tea",
-            price = 25,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -668,7 +668,7 @@ Config.Products = {
         },
         [10] = {
             name = "earl_grey_tea",
-            price = 25,
+            price = 2.50,
             amount = 50,
             info = {},
             type = "item",
@@ -676,7 +676,7 @@ Config.Products = {
         },
         [11] = {
             name = "cookie",
-            price = 25,
+            price = 1.20,
             amount = 50,
             info = {},
             type = "item",
@@ -686,7 +686,7 @@ Config.Products = {
     ["casino"] = {
         [1] = {
             name = 'casinochips',
-            price = 1,
+            price = 1.00,
             amount = 999999,
             info = {},
             type = 'item',
@@ -696,7 +696,7 @@ Config.Products = {
     ["fishing"] = {
         [1] = {
             name = 'fishingrod',
-            price = 500,
+            price = 500.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -704,7 +704,7 @@ Config.Products = {
         },
         [2] = {
             name = 'fishingbait',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -714,7 +714,7 @@ Config.Products = {
     ["kfc"] = {
         [1] = {
             name = 'chickenbucket',
-            price = 500,
+            price = 9.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -722,7 +722,7 @@ Config.Products = {
         },
         [2] = {
             name = 'nuggets',
-            price = 10,
+            price = 7.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -730,7 +730,7 @@ Config.Products = {
         },
         [3] = {
             name = 'fries',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -738,7 +738,7 @@ Config.Products = {
         },
         [4] = {
             name = 'milkshake',
-            price = 10,
+            price = 2.7,
             amount = 1000,
             info = {},
             type = 'item',
@@ -746,7 +746,7 @@ Config.Products = {
         },
         [5] = {
             name = 'icecream',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -754,7 +754,7 @@ Config.Products = {
         },
         [6] = {
             name = 'cookie',
-            price = 10,
+            price = 1.20,
             amount = 1000,
             info = {},
             type = 'item',
@@ -762,7 +762,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -770,7 +770,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -778,7 +778,7 @@ Config.Products = {
         },
         [9] = {
             name = 'fanta',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -786,7 +786,7 @@ Config.Products = {
         },
         [9] = {
             name = 'sprite',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -794,7 +794,7 @@ Config.Products = {
         },
         [9] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -802,7 +802,7 @@ Config.Products = {
         },
         [9] = {
             name = 'redbull',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -813,7 +813,7 @@ Config.Products = {
     ["bar"] = {
         [1] = {
             name = 'kurkakola',
-            price = 500,
+            price = 20.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -821,7 +821,7 @@ Config.Products = {
         },
         [2] = {
             name = 'fanta',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -829,7 +829,7 @@ Config.Products = {
         },
         [3] = {
             name = 'sprite',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -837,7 +837,7 @@ Config.Products = {
         },
         [4] = {
             name = 'redbull',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -845,7 +845,7 @@ Config.Products = {
         },
         [5] = {
             name = 'corona',
-            price = 10,
+            price = 5.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -853,7 +853,7 @@ Config.Products = {
         },
         [6] = {
             name = 'stella',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -861,7 +861,7 @@ Config.Products = {
         },
         [7] = {
             name = 'duvel',
-            price = 10,
+            price = 3.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -869,7 +869,7 @@ Config.Products = {
         },
         [8] = {
             name = 'jupiler',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -877,7 +877,7 @@ Config.Products = {
         },
         [9] = {
             name = 'maes',
-            price = 10,
+            price = 2.20,
             amount = 1000,
             info = {},
             type = 'item',
@@ -885,7 +885,7 @@ Config.Products = {
         },
         [10] = {
             name = 'carapils',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -893,7 +893,7 @@ Config.Products = {
         },
         [11] = {
             name = 'desperados',
-            price = 10,
+            price = 5.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -901,7 +901,7 @@ Config.Products = {
         },
         [12] = {
             name = 'vodka_redbull',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -909,7 +909,7 @@ Config.Products = {
         },
         [13] = {
             name = 'whiskey',
-            price = 10,
+            price = 9.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -917,7 +917,7 @@ Config.Products = {
         },
         [14] = {
             name = 'vodka',
-            price = 10,
+            price = 9.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -925,7 +925,7 @@ Config.Products = {
         },
         [15] = {
             name = 'bacardi_cola',
-            price = 10,
+            price = 9.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -933,7 +933,7 @@ Config.Products = {
         },
         [16] = {
             name = 'martini',
-            price = 10,
+            price = 7.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -941,7 +941,7 @@ Config.Products = {
         },
         [17] = {
             name = 'gold_strike',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -949,7 +949,7 @@ Config.Products = {
         },
         [18] = {
             name = 'boswandeling',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -957,7 +957,7 @@ Config.Products = {
         },
         [19] = {
             name = 'jenever',
-            price = 10,
+            price = 4.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -965,7 +965,7 @@ Config.Products = {
         },
         [20] = {
             name = 'rode_wijn',
-            price = 10,
+            price = 4.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -973,7 +973,7 @@ Config.Products = {
         },
         [21] = {
             name = 'witte_wijn',
-            price = 10,
+            price = 4.40,
             amount = 1000,
             info = {},
             type = 'item',
@@ -981,7 +981,7 @@ Config.Products = {
         },
         [22] = {
             name = 'cava',
-            price = 10,
+            price = 6.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -989,7 +989,7 @@ Config.Products = {
         },
         [23] = {
             name = 'mojito',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -997,7 +997,7 @@ Config.Products = {
         },
         [24] = {
             name = 'twerks_candy',
-            price = 10,
+            price = 0.60,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1005,7 +1005,7 @@ Config.Products = {
         },
         [25] = {
             name = 'snikkel_candy',
-            price = 10,
+            price = 0.60,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1013,7 +1013,7 @@ Config.Products = {
         },
         [26] = {
             name = 'chips',
-            price = 10,
+            price = 0.90,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1021,7 +1021,7 @@ Config.Products = {
         },
         [27] = {
             name = 'sandwich',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1032,7 +1032,7 @@ Config.Products = {
     ["cafe"] = {
         [1] = {
             name = 'stella',
-            price = 500,
+            price = 2.50,
             amount = 500,
             info = {},
             type = 'item',
@@ -1040,7 +1040,7 @@ Config.Products = {
         },
         [2] = {
             name = 'jupiler',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1048,7 +1048,7 @@ Config.Products = {
         },
         [3] = {
             name = 'duvel',
-            price = 10,
+            price = 3.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1056,7 +1056,7 @@ Config.Products = {
         },
         [4] = {
             name = 'maes',
-            price = 10,
+            price = 2.20,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1064,7 +1064,7 @@ Config.Products = {
         },
         [5] = {
             name = 'carapils',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1072,7 +1072,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1080,7 +1080,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1088,7 +1088,7 @@ Config.Products = {
         },
         [8] = {
             name = 'fanta',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1096,7 +1096,7 @@ Config.Products = {
         },
         [9] = {
             name = 'sprite',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1104,7 +1104,7 @@ Config.Products = {
         },
         [10] = {
             name = 'redbull',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1112,7 +1112,7 @@ Config.Products = {
         },
         [11] = {
             name = 'wine',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1120,7 +1120,7 @@ Config.Products = {
         },
         [12] = {
             name = 'vodka',
-            price = 10,
+            price = 9.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1128,7 +1128,7 @@ Config.Products = {
         },
         [13] = {
             name = 'vodka_redbull',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1136,7 +1136,7 @@ Config.Products = {
         },
         [14] = {
             name = 'whiskey',
-            price = 10,
+            price = 9.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1144,7 +1144,7 @@ Config.Products = {
         },
         [15] = {
             name = 'chips',
-            price = 10,
+            price = 0.90,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1152,7 +1152,7 @@ Config.Products = {
         },
         [16] = {
             name = 'tosti',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1160,7 +1160,7 @@ Config.Products = {
         },
         [17] = {
             name = 'twerks_candy',
-            price = 10,
+            price = 0.60,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1168,7 +1168,7 @@ Config.Products = {
         },
         [18] = {
             name = 'snikkel_candy',
-            price = 10,
+            price = 0.60,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1176,7 +1176,7 @@ Config.Products = {
         },
         [19] = {
             name = 'sandwich',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1184,7 +1184,7 @@ Config.Products = {
         },  
         [20] = {
             name = 'desperados',
-            price = 10,
+            price = 5.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1192,7 +1192,7 @@ Config.Products = {
         },  
         [21] = {
             name = 'corona',
-            price = 10,
+            price = 5.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1203,7 +1203,7 @@ Config.Products = {
     ["mcdo"] = {
         [1] = {
             name = 'fries',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1211,7 +1211,7 @@ Config.Products = {
         },
         [2] = {
             name = 'hamburger',
-            price = 10,
+            price = 1.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1219,7 +1219,7 @@ Config.Products = {
         },
         [3] = {
             name = 'nuggets',
-            price = 10,
+            price = 7.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1227,7 +1227,7 @@ Config.Products = {
         },
         [4] = {
             name = 'milkshake',
-            price = 10,
+            price = 2.7,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1235,7 +1235,7 @@ Config.Products = {
         },
         [5] = {
             name = 'icecream',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1243,7 +1243,7 @@ Config.Products = {
         },
         [6] = {
             name = 'donut',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1251,7 +1251,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1259,7 +1259,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1267,7 +1267,7 @@ Config.Products = {
         },
         [9] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1275,7 +1275,7 @@ Config.Products = {
         },
         [10] = {
             name = 'fanta',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1283,7 +1283,7 @@ Config.Products = {
         },
         [11] = {
             name = 'sprite',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1291,7 +1291,7 @@ Config.Products = {
         },
         [12] = {
             name = 'grapejuice',
-            price = 10,
+            price = 6.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1302,7 +1302,7 @@ Config.Products = {
     ["popsdiner"] = {
         [1] = {
             name = 'chickenbucket',
-            price = 500,
+            price = 9.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -1310,7 +1310,7 @@ Config.Products = {
         },
         [2] = {
             name = 'nuggets',
-            price = 10,
+            price = 7.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1318,7 +1318,7 @@ Config.Products = {
         },
         [3] = {
             name = 'fries',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1326,7 +1326,7 @@ Config.Products = {
         },
         [4] = {
             name = 'milkshake',
-            price = 10,
+            price = 2.7,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1334,7 +1334,7 @@ Config.Products = {
         },
         [5] = {
             name = 'icecream',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1342,7 +1342,7 @@ Config.Products = {
         },
         [6] = {
             name = 'donut',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1350,7 +1350,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1358,7 +1358,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1366,7 +1366,7 @@ Config.Products = {
         },
         [9] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1376,7 +1376,7 @@ Config.Products = {
     ["huntingshop"] = {
         [1] = {
             name = 'huntingknife',
-            price = 500,
+            price = 500.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -1384,7 +1384,7 @@ Config.Products = {
         },
         [2] = {
             name = 'huntingbait',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1392,7 +1392,7 @@ Config.Products = {
         },
         [3] = {
             name = 'weapon_musket',
-            price = 10,
+            price = 1500,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1400,7 +1400,7 @@ Config.Products = {
         },
         [4] = {
             name = 'shotgun_ammo',
-            price = 10,
+            price = 200.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1410,7 +1410,7 @@ Config.Products = {
     ["taco"] = {
         [1] = {
             name = 'taco',
-            price = 100,
+            price = 3.50,
             amount = 500,
             info = {},
             type = 'item',
@@ -1418,7 +1418,7 @@ Config.Products = {
         },
         [2] = {
             name = 'fries',
-            price = 100,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1426,7 +1426,7 @@ Config.Products = {
         },
         [3] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1434,7 +1434,7 @@ Config.Products = {
         },
         [4] = {
             name = 'fanta',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1442,7 +1442,7 @@ Config.Products = {
         },
         [5] = {
             name = 'sprite',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1450,7 +1450,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1458,7 +1458,7 @@ Config.Products = {
         },
         [7] = {
             name = 'redbull',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1469,7 +1469,7 @@ Config.Products = {
     ["foodtruck1"] = {
         [1] = {
             name = 'kurkakola',
-            price = 500,
+            price = 20.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -1477,7 +1477,7 @@ Config.Products = {
         },
         [2] = {
             name = 'fries',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1485,7 +1485,7 @@ Config.Products = {
         },
         [3] = {
             name = 'hotdog',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1493,7 +1493,7 @@ Config.Products = {
         },
         [4] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1501,7 +1501,7 @@ Config.Products = {
         },
         [5] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1509,7 +1509,7 @@ Config.Products = {
         },
         [6] = {
             name = 'pizza_mozzerella',
-            price = 10,
+            price = 7.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1519,7 +1519,7 @@ Config.Products = {
     ["foodtruck2"] = {
         [1] = {
             name = 'cookie',
-            price = 500,
+            price = 1.20,
             amount = 500,
             info = {},
             type = 'item',
@@ -1527,7 +1527,7 @@ Config.Products = {
         },
         [2] = {
             name = 'muffin',
-            price = 10,
+            price = 1.20,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1535,7 +1535,7 @@ Config.Products = {
         },
         [3] = {
             name = 'icecream',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1543,7 +1543,7 @@ Config.Products = {
         },
         [4] = {
             name = 'milkshake',
-            price = 10,
+            price = 2.7,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1551,7 +1551,7 @@ Config.Products = {
         },
         [5] = {
             name = 'donut',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1559,7 +1559,7 @@ Config.Products = {
         },
         [6] = {
             name = 'pancake',
-            price = 10,
+            price = 5.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1567,7 +1567,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1575,7 +1575,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1583,7 +1583,7 @@ Config.Products = {
         },
         [9] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1593,31 +1593,31 @@ Config.Products = {
     ["foodtruck3"] = {
         [1] = {
             name = 'eggsbacon',
-            price = 500,
+            price = 8,
             amount = 500,
             info = {},
             type = 'item',
             slot = 1,
         },
         [2] = {
-            name = 'panini boulet',
-            price = 10,
+            name = 'panini_boulet',
+            price = 4.00,
             amount = 1000,
             info = {},
             type = 'item',
             slot = 2,
         },
         [2] = {
-            name = 'panini chicken peper',
-            price = 10,
+            name = 'panini_chicken_peper',
+            price = 4.00,
             amount = 1000,
             info = {},
             type = 'item',
             slot = 2,
         },
         [2] = {
-            name = 'panini mozzarella',
-            price = 10,
+            name = 'panini_mozzarella',
+            price = 4.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1625,7 +1625,7 @@ Config.Products = {
         },
         [3] = {
             name = 'taco',
-            price = 10,
+            price = 3.5,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1633,7 +1633,7 @@ Config.Products = {
         },
         [4] = {
             name = 'hotdog',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1641,7 +1641,7 @@ Config.Products = {
         },
         [5] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1649,7 +1649,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1657,7 +1657,7 @@ Config.Products = {
         },
         [7] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1665,7 +1665,7 @@ Config.Products = {
         },
         [8] = {
             name = 'tosti',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1675,7 +1675,7 @@ Config.Products = {
     ["foodtruck4"] = {
         [1] = {
             name = 'twerks_candy',
-            price = 500,
+            price = 0.60,
             amount = 500,
             info = {},
             type = 'item',
@@ -1683,7 +1683,7 @@ Config.Products = {
         },
         [2] = {
             name = 'snikkel_candy',
-            price = 10,
+            price = 0.60,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1691,7 +1691,7 @@ Config.Products = {
         },
         [3] = {
             name = 'sandwich',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1699,7 +1699,7 @@ Config.Products = {
         },
         [4] = {
             name = 'rolling_paper',
-            price = 10,
+            price = 1.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1707,7 +1707,7 @@ Config.Products = {
         },
         [5] = {
             name = 'lighter',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1715,7 +1715,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1723,7 +1723,7 @@ Config.Products = {
         },
         [7] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1733,7 +1733,7 @@ Config.Products = {
     ["hotdogstand"] = {
         [1] = {
             name = 'hotdog',
-            price = 500,
+            price = 1.50,
             amount = 500,
             info = {},
             type = 'item',
@@ -1741,7 +1741,7 @@ Config.Products = {
         },
         [2] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1749,7 +1749,7 @@ Config.Products = {
         },
         [3] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1757,7 +1757,7 @@ Config.Products = {
         },
         [4] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1767,7 +1767,7 @@ Config.Products = {
     ["hamburgerstand"] = {
         [1] = {
             name = 'hotdog',
-            price = 500,
+            price = 1.50,
             amount = 500,
             info = {},
             type = 'item',
@@ -1775,7 +1775,7 @@ Config.Products = {
         },
         [2] = {
             name = 'kurkakola',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1783,7 +1783,7 @@ Config.Products = {
         },
         [3] = {
             name = 'water_bottle',
-            price = 10,
+            price = 20.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1791,7 +1791,7 @@ Config.Products = {
         },
         [4] = {
             name = 'coffee',
-            price = 10,
+            price = 2.50,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1801,7 +1801,7 @@ Config.Products = {
     ["applestore"] = {
         [1] = {
             name = 'phone',
-            price = 500,
+            price = 850,
             amount = 500,
             info = {},
             type = 'item',
@@ -1809,7 +1809,7 @@ Config.Products = {
         },
         [2] = {
             name = 'tablet',
-            price = 10,
+            price = 1200,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1817,7 +1817,7 @@ Config.Products = {
         },
         [3] = {
             name = 'laptop',
-            price = 10,
+            price = 2000,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1827,7 +1827,7 @@ Config.Products = {
     ["apotheek"] = {
         [1] = {
             name = 'bandage',
-            price = 500,
+            price = 500.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -1835,7 +1835,7 @@ Config.Products = {
         },
         [2] = {
             name = 'painkillers',
-            price = 10,
+            price = 600,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1843,7 +1843,7 @@ Config.Products = {
         },
         [3] = {
             name = 'hydrochloricacid',
-            price = 10,
+            price = 10.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1853,7 +1853,7 @@ Config.Products = {
     ["catsnack"] = {
         [1] = {
             name = "milkshake",
-            price = 3.99,
+            price = 2.7,
             amount = 25,
             info = {},
             type = "item",
@@ -1861,7 +1861,7 @@ Config.Products = {
         },
         [2] = {
             name = "donut",
-            price = 4.00,
+            price = 1.50,
             amount = 25,
             info = {},
             type = "item",
@@ -1869,7 +1869,7 @@ Config.Products = {
         },
         [3] = {
             name = "cookie",
-            price = 2.99,
+            price = 1.20,
             amount = 25,
             info = {},
             type = "item",
@@ -1877,7 +1877,7 @@ Config.Products = {
         },
         [4] = {
             name = "water_bottle",
-            price = 2.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1885,7 +1885,7 @@ Config.Products = {
         },
         [5] = {
             name = "coffee",
-            price = 3.00,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -1893,7 +1893,7 @@ Config.Products = {
         },
         [6] = {
             name = "cake",
-            price = 4.36,
+            price = 4.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1901,7 +1901,7 @@ Config.Products = {
         },
         [7] = {
             name = "pie",
-            price = 4.36,
+            price = 1.50,
             amount = 25,
             info = {},
             type = "item",
@@ -1909,7 +1909,7 @@ Config.Products = {
         },
         [8] = {
             name = "fanta",
-            price = 3.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1925,7 +1925,7 @@ Config.Products = {
         },
         [10] = {
             name = "milk",
-            price = 5.00,
+            price = 1.50,
             amount = 25,
             info = {},
             type = "item",
@@ -1935,7 +1935,7 @@ Config.Products = {
     ["snackbar"] = {
         [1] = {
             name = "tosti",
-            price = 5.69,
+            price = 20.00,
             amount = 15,
             info = {},
             type = "item",
@@ -1943,7 +1943,7 @@ Config.Products = {
         },
         [2] = {
             name = "hotdog",
-            price = 5.69,
+            price = 1.50,
             amount = 25,
             info = {},
             type = "item",
@@ -1951,7 +1951,7 @@ Config.Products = {
         },
         [3] = {
             name = "pizza_salami",
-            price = 10.99,
+            price = 7.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1959,7 +1959,7 @@ Config.Products = {
         },
         [4] = {
             name = "hamburger",
-            price = 2.99,
+            price = 1.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1967,7 +1967,7 @@ Config.Products = {
         },
         [5] = {
             name = "fries",
-            price = 7.99,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -1975,7 +1975,7 @@ Config.Products = {
         },
         [6] = {
             name = "pasta_bolognese",
-            price = 0.64,
+            price = 6,
             amount = 25,
             info = {},
             type = "item",
@@ -1983,7 +1983,7 @@ Config.Products = {
         },
         [7] = {
             name = "kurkakola",
-            price = 3.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1991,7 +1991,7 @@ Config.Products = {
         },
         [8] = {
             name = "fanta",
-            price = 3.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -1999,7 +1999,7 @@ Config.Products = {
         },
         [9] = {
             name = "sprite",
-            price = 3.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2007,7 +2007,7 @@ Config.Products = {
         },
         [10] = {
             name = "stella",
-            price = 5.00,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2015,7 +2015,7 @@ Config.Products = {
         },
         [11] = {
             name = "jupiler",
-            price = 15.00,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2023,7 +2023,7 @@ Config.Products = {
         },
         [12] = {
             name = "maes",
-            price = 15.00,
+            price = 2.20,
             amount = 25,
             info = {},
             type = "item",
@@ -2031,7 +2031,7 @@ Config.Products = {
         },
         [13] = {
             name = "carapils",
-            price = 3.00,
+            price = 1.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2039,7 +2039,7 @@ Config.Products = {
         },
         [14] = {
             name = "redbull",
-            price = 3.,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2047,7 +2047,7 @@ Config.Products = {
         },
         [15] = {
             name = "duvel",
-            price = 3.,
+            price = 3.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2055,7 +2055,7 @@ Config.Products = {
         },
         [16] = {
             name = "vodka_redbull",
-            price = 3.,
+            price = 10.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2071,7 +2071,7 @@ Config.Products = {
         },
         [18] = {
             name = "water_bottle",
-            price = 3.,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2079,7 +2079,7 @@ Config.Products = {
         },
         [19] = {
             name = "coffee'",
-            price = 3.,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2087,7 +2087,7 @@ Config.Products = {
         },
         [20] = {
             name = "mint_tea",
-            price = 3.,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2095,7 +2095,7 @@ Config.Products = {
         },
         [21] = {
             name = "green_tea",
-            price = 3.,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2103,19 +2103,18 @@ Config.Products = {
         },
         [22] = {
             name = "whiskey",
-            price = 3.,
+            price = 9.00,
             amount = 25,
             info = {},
             type = "item",
             slot = 22,
         },
-
     },
 
     ["pizzeria"] = {
         [1] = {
             name = "pizza_mozzerella",
-            price = 8.00,
+            price = 7.00,
             amount = 15,
             info = {},
             type = "item",
@@ -2123,7 +2122,7 @@ Config.Products = {
         },
         [2] = {
             name = "pizza_salami",
-            price = 8.00,
+            price = 7.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2131,7 +2130,7 @@ Config.Products = {
         },
         [3] = {
             name = "pizza_hawai",
-            price = 8.00,
+            price = 7.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2139,7 +2138,7 @@ Config.Products = {
         },
         [4] = {
             name = "pizza_vegi",
-            price = 8.00,
+            price = 7.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2147,7 +2146,7 @@ Config.Products = {
         },
         [5] = {
             name = "pasta_carbonara",
-            price = 7.00,
+            price = 6.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2155,7 +2154,7 @@ Config.Products = {
         },
         [6] = {
             name = "pasta_bolognese",
-            price = 7.00,
+            price = 6,
             amount = 25,
             info = {},
             type = "item",
@@ -2163,7 +2162,7 @@ Config.Products = {
         },
         [7] = {
             name = "tiramisu",
-            price = 3.99,
+            price = 3.50,
             amount = 25,
             info = {},
             type = "item",
@@ -2171,7 +2170,7 @@ Config.Products = {
         },
         [8] = {
             name = "fanta",
-            price = 3.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2179,7 +2178,7 @@ Config.Products = {
         },
         [9] = {
             name = "sprite",
-            price = 3.99,
+            price = 20.00,
             amount = 25,
             info = {},
             type = "item",
@@ -2187,19 +2186,20 @@ Config.Products = {
         },
         [10] = {
             name = "beer",
-            price = 5.00,
+            price = 2.50,
             amount = 25,
+        },
     },
     ["casino"] = {
         [1] = {
             name = 'casinochips',
-            price = 1,
+            price = 1.00,
             amount = 999999,
             info = {},
-            type = "item",
-            slot = 10,
+            type = 'item',
+            slot = 1,
         },
-        [11] = {
+        [2] = {
             name = "icecream",
             price = 1.50,
             amount = 25,
@@ -2207,29 +2207,26 @@ Config.Products = {
             type = "item",
             slot = 11,
         },
-        [12] = {
+        [3] = {
             name = "chocomousse",
-            price = 3.99,
+            price = 3.5,
             amount = 25,
             info = {},
             type = "item",
             slot = 12,
         },
-        [13] = {
+        [4] = {
             name = "coffee",
-            price = 3.00,
+            price = 2.50,
             amount = 25,
             info = {},
             type = "item",
             slot = 13,
         },
     },
-
-
 }
 
 Config.Locations = {
-
     -- 24/7 Locations
     ["247supermarket"] = {
         ["label"] = "24/7 Supermarket",
@@ -2698,20 +2695,20 @@ Config.Locations = {
         ["blipcolor"] = 0
     },
 
-    -- Casino Locations
-    ["casino"] = {
-        ["label"] = "Diamond Casino",
-        ["coords"] = vector4(949.29, 32.13, 71.95, 79.54),
-        ["ped"] = 'csb_tomcasino',
-        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
-        ["radius"] = 1.5,
-        ["targetIcon"] = "fas fa-coins",
-        ["targetLabel"] = "Buy Chips",
-        ["products"] = Config.Products["casino"],
-        ["showblip"] = true,
-        ["blipsprite"] = 617,
-        ["blipcolor"] = 0
-    },
+    -- -- Casino Locations
+    -- ["casino"] = {
+    --     ["label"] = "Diamond Casino",
+    --     ["coords"] = vector4(949.29, 32.13, 71.95, 79.54),
+    --     ["ped"] = 'csb_tomcasino',
+    --     ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
+    --     ["radius"] = 1.5,
+    --     ["targetIcon"] = "fas fa-coins",
+    --     ["targetLabel"] = "Buy Chips",
+    --     ["products"] = Config.Products["casino"],
+    --     ["showblip"] = true,
+    --     ["blipsprite"] = 617,
+    --     ["blipcolor"] = 0
+    -- },
 
     ["casinobar"] = {
         ["label"] = "Casino Bar",
@@ -2721,8 +2718,8 @@ Config.Locations = {
         ["radius"] = 1.5,
         ["targetIcon"] = "fas fa-wine-bottle",
         ["targetLabel"] = "Open Casino Bar",
-        ["products"] = Config.Products["liquor"],
-        ["showblip"] = false,
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = true,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
     },
@@ -2771,4 +2768,414 @@ Config.Locations = {
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
     },
+
+    -- Custom stuff starts here
+
+    ["blubblub"] = {
+        ["label"] = "Blublub Shop",
+        ["coords"] = vector4(-1211.79, -1460.62, 4.3477, 35.47),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 1.5,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["leisureshop"],
+        ["showblip"] = true,
+        ["blipsprite"] = 729,
+        ["blipcolor"] = 0
+    },
+
+    ["fishing"] = {
+        ["label"] = "Fishing",
+        ["coords"] = vector4(1301.402, 4319.427, 38.202, 310.4),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 1.5,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Fishing Shop",
+        ["products"] = Config.Products["fishing"],
+        ["showblip"] = true,
+        ["blipsprite"] = 754,
+        ["blipcolor"] = 0
+    },
+
+    ["popeyes"] = {
+        ["label"] = "Popeyes",
+        ["coords"] = vector4(175.3519, -1447.05, 29.130, 48.18),
+        ["ped"] = 's_m_m_strvend_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 1.5,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Fishing Shop",
+        ["products"] = Config.Products["kfc"],
+        ["showblip"] = true,
+        ["blipsprite"] = 436,
+        ["blipcolor"] = 0
+    },
+
+    ["tequilala"] = {
+        ["label"] = "Tequi-la-la",
+        ["coords"] = vector4(-561.742, 286.9348, 82.176, 259.0),
+        ["ped"] = 'ig_ashley',
+        ["scenario"] = "WORLD_HUMAN_DRINKING",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = true,
+        ["blipsprite"] = 436,
+        ["blipcolor"] = 0
+    },
+
+    ["nachtwinkel"] = {
+        ["label"] = "Liquor Ace",
+        ["coords"] = vector4(1392.407, 3606.259, 34.980, 201.1),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["24/7shop"],
+        ["showblip"] = true,
+        ["blipsprite"] = 430,
+        ["blipcolor"] = 0
+    },
+
+    ["groveshop"] = {
+        ["label"] = "Grove Shop",
+        ["coords"] = vector4(-5.55662, -1821.76, 25.319, 150.2),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["normal"],
+        ["showblip"] = true,
+        ["blipsprite"] = 52,
+        ["blipcolor"] = 0
+    },
+
+    ["jachtwinkel"] = {
+        ["label"] = "Bayview Lodge Shop",
+        ["coords"] = vector3(-674.994, 5836.406, 17.340),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["huntingshop"],
+        ["showblip"] = true,
+        ["blipsprite"] = 141,
+        ["blipcolor"] = 0
+    },
+
+    ["mcdo"] = {
+        ["label"] = "McDonalds",
+        ["coords"] = vector3(-401.569, 6070.488, 31.500),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["mcdo"],
+        ["showblip"] = true,
+        ["blipsprite"] = 78,
+        ["blipcolor"] = 0
+    },
+
+    ["burgershot"] = {
+        ["label"] = "Burgershot",
+        ["coords"] = vector3(-1193.99, -892.735, 13.995),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["mcdo"],
+        ["showblip"] = true,
+        ["blipsprite"] = 106,
+        ["blipcolor"] = 0
+    },
+
+    ["mojito"] = {
+        ["label"] = "Place 2 be",
+        ["coords"] =vector4(-117.677, 6384.950, 32.180, 108.6),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = true,
+        ["blipsprite"] = 93,
+        ["blipcolor"] = 0
+    },
+
+    ["lostmcbar"] = {
+        ["label"] = "Hell",
+        ["coords"] = vector4(-21.1129, 6480.945, 31.493, 145.1),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = true,
+        ["blipsprite"] = 93,
+        ["blipcolor"] = 0
+    },
+
+    ["tacoshop"] = {
+        ["label"] = "The Taco Farmer",
+        ["coords"] = vector4(10.18538, -1604.18, 29.371, 217.8),
+        ["ped"] = 'u_f_o_eileen',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["taco"],
+        ["showblip"] = true,
+        ["blipsprite"] = 93,
+        ["blipcolor"] = 0
+    },
+
+    ["GABZ-VANILLAUNICORN"] = {
+        ["label"] = "Vanilla Unicorn Stripclub",
+        ["coords"] = vector4(129.2591, -1283.67, 29.269, 115.2),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["bar"],
+        ["showblip"] = true,
+        ["blipsprite"] = 279,
+        ["blipcolor"] = 0
+    },
+
+    ["applestore"] = {
+        ["label"] = "Apple Store",
+        ["coords"] = vector4(148.9965, -234.633, 54.424, 341.8),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["applestore"],
+        ["showblip"] = true,
+        ["blipsprite"] = 279,
+        ["blipcolor"] = 0
+    },
+
+    ["apotheek"] = {
+        ["label"] = "Apotheek Prik",
+        ["coords"] = vector3(376.5866, -829.494, 29.291),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["apotheek"],
+        ["showblip"] = true,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["zuipschuit"] = {
+        ["label"] = "De Zuipschuit",
+        ["coords"] = vector4(122.2702, -1038.61, 29.277, 73.01),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = true,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hetblokje"] = {
+        ["label"] = "Het Blokje",
+        ["coords"] = vector4(188.5457, -919.197, 31.434, 329.3),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["foodtruck1"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["kremglaze1"] = {
+        ["label"] = "Krem Glaze",
+        ["coords"] = vector4(228.3388, -907.315, 31.119, 64.42),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["foodtruck2"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["kremglaze2"] = {
+        ["label"] = "Krem Glaze",
+        ["coords"] = vector4(222.0675, -915.917, 30.003, 58.14),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["foodtruck2"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["tgazetje1"] = {
+        ["label"] = "'t Gazetje",
+        ["coords"] = vector4(-1636.68, -1092.20, 12.076, 318.8),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["foodtruck4"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["tgazetje2"] = {
+        ["label"] = "'t Gazetje",
+        ["coords"] = vector4(-1645.19, -1102.21, 12.551, 317.7),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["foodtruck4"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["pizzeria"] = {
+        ["label"] = "Pizzeria Luchetti's",
+        ["coords"] = vector4(288.9403, -977.982, 29.433, 2.562),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["pizzeria"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hotdogstand1"] = {
+        ["label"] = "Hetenond",
+        ["coords"] = vector4(-1683.44, -1124.33, 13.152, 116.6),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["hotdogstand"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hotdogstand2"] = {
+        ["label"] = "Hetenond",
+        ["coords"] = vector4(-1835.30, -1233.91, 13.017, 39.37),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["hotdogstand"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hotdogstand3"] = {
+        ["label"] = "Hetenond",
+        ["coords"] = vector4(1947.682, 3848.505, 32.176, 341.4),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["hotdogstand"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hotdogstand4"] = {
+        ["label"] = "Hetenond",
+        ["coords"] = vector4(-1720.33, -1104.13, 13.017, 37.53),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["hotdogstand"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hotdogstand5"] = {
+        ["label"] = "Hetenond",
+        ["coords"] = vector4(-1638.07, -1083.27, 13.075, 239.6),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 2.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["hotdogstand"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["cafesandy1"] = {
+        ["label"] = "Hapje Tapje",
+        ["coords"] = vector4(1983.278, 3053.771, 47.215, 235.9),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 3.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["cafe"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+    ["hamburgerstand1"] = {
+        ["label"] = "Vettig & Prettig",
+        ["coords"] = vector3(-1695.06, -1071.73, 13.041),
+        ["ped"] = 'a_m_y_beach_01',
+        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["radius"] = 3.0,
+        ["targetIcon"] = "fas fa-leaf",
+        ["targetLabel"] = "Open Leisure Shop",
+        ["products"] = Config.Products["hamburgerstand"],
+        ["showblip"] = false,
+        ["blipsprite"] = 51,
+        ["blipcolor"] = 0
+    },
+
+
 }
