@@ -434,7 +434,7 @@ Config.Products = {
             type = "item",
             slot = 15,
             requiredJob = { "mechanic" }
-        },        
+        },
     },
     ["weedshop"] = {
         [1] = {
@@ -512,7 +512,7 @@ Config.Products = {
             info = {},
             type = "item",
             slot = 2,
-        },    
+        },
         [3] = {
             name = "diving_gear",
             price = 2500.00,
@@ -619,7 +619,7 @@ Config.Products = {
             slot = 3,
         },
         [4] = {
-            name = "donut",  
+            name = "donut",
             price = 1.50,
             amount = 50,
             info = {},
@@ -762,7 +762,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -770,7 +770,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -778,7 +778,7 @@ Config.Products = {
         },
         [9] = {
             name = 'fanta',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -786,7 +786,7 @@ Config.Products = {
         },
         [9] = {
             name = 'sprite',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -813,7 +813,7 @@ Config.Products = {
     ["bar"] = {
         [1] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -821,7 +821,7 @@ Config.Products = {
         },
         [2] = {
             name = 'fanta',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -829,7 +829,7 @@ Config.Products = {
         },
         [3] = {
             name = 'sprite',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1072,7 +1072,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1080,7 +1080,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1088,7 +1088,7 @@ Config.Products = {
         },
         [8] = {
             name = 'fanta',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1096,7 +1096,7 @@ Config.Products = {
         },
         [9] = {
             name = 'sprite',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1181,7 +1181,7 @@ Config.Products = {
             info = {},
             type = 'item',
             slot = 19,
-        },  
+        },
         [20] = {
             name = 'desperados',
             price = 5.00,
@@ -1189,7 +1189,7 @@ Config.Products = {
             info = {},
             type = 'item',
             slot = 20,
-        },  
+        },
         [21] = {
             name = 'corona',
             price = 5.00,
@@ -1197,7 +1197,7 @@ Config.Products = {
             info = {},
             type = 'item',
             slot = 21,
-        },  
+        },
 
     },
     ["mcdo"] = {
@@ -1251,7 +1251,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1259,7 +1259,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1275,7 +1275,7 @@ Config.Products = {
         },
         [10] = {
             name = 'fanta',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1283,7 +1283,7 @@ Config.Products = {
         },
         [11] = {
             name = 'sprite',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1350,7 +1350,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1358,7 +1358,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1426,7 +1426,7 @@ Config.Products = {
         },
         [3] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1434,7 +1434,7 @@ Config.Products = {
         },
         [4] = {
             name = 'fanta',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1442,7 +1442,7 @@ Config.Products = {
         },
         [5] = {
             name = 'sprite',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1450,7 +1450,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1469,7 +1469,7 @@ Config.Products = {
     ["foodtruck1"] = {
         [1] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 500,
             info = {},
             type = 'item',
@@ -1501,7 +1501,7 @@ Config.Products = {
         },
         [5] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1567,7 +1567,7 @@ Config.Products = {
         },
         [7] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1575,7 +1575,7 @@ Config.Products = {
         },
         [8] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1641,7 +1641,7 @@ Config.Products = {
         },
         [5] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1649,7 +1649,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1715,7 +1715,7 @@ Config.Products = {
         },
         [6] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1741,7 +1741,7 @@ Config.Products = {
         },
         [2] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1749,7 +1749,7 @@ Config.Products = {
         },
         [3] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1775,7 +1775,7 @@ Config.Products = {
         },
         [2] = {
             name = 'kurkakola',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1783,7 +1783,7 @@ Config.Products = {
         },
         [3] = {
             name = 'water_bottle',
-            price = 20.00,
+            price = 2.00,
             amount = 1000,
             info = {},
             type = 'item',
@@ -1950,14 +1950,6 @@ Config.Products = {
             slot = 2,
         },
         [3] = {
-            name = "pizza_salami",
-            price = 7.00,
-            amount = 25,
-            info = {},
-            type = "item",
-            slot = 3,
-        },
-        [4] = {
             name = "hamburger",
             price = 1.00,
             amount = 25,
@@ -1965,13 +1957,21 @@ Config.Products = {
             type = "item",
             slot = 4,
         },
-        [5] = {
+        [4] = {
             name = "fries",
             price = 2.50,
             amount = 25,
             info = {},
             type = "item",
             slot = 5,
+        },
+        [5] = {
+            name = "pizza_salami",
+            price = 7.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 3,
         },
         [6] = {
             name = "pasta_bolognese",
@@ -1982,6 +1982,30 @@ Config.Products = {
             slot = 6,
         },
         [7] = {
+            name = "pasta_carbonara",
+            price = 6.00,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 5,
+        },
+        [8] = {
+            name = "tiramisu",
+            price = 3.50,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [9] = {
+            name = "chocomousse",
+            price = 3.5,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 12,
+        },
+        [10] = {
             name = "kurkakola",
             price = 20.00,
             amount = 25,
@@ -1989,7 +2013,7 @@ Config.Products = {
             type = "item",
             slot = 7,
         },
-        [8] = {
+        [11] = {
             name = "fanta",
             price = 20.00,
             amount = 25,
@@ -1997,7 +2021,7 @@ Config.Products = {
             type = "item",
             slot = 8,
         },
-        [9] = {
+        [12] = {
             name = "sprite",
             price = 20.00,
             amount = 25,
@@ -2005,7 +2029,7 @@ Config.Products = {
             type = "item",
             slot = 9,
         },
-        [10] = {
+        [13] = {
             name = "stella",
             price = 2.50,
             amount = 25,
@@ -2013,7 +2037,7 @@ Config.Products = {
             type = "item",
             slot = 10,
         },
-        [11] = {
+        [14] = {
             name = "jupiler",
             price = 20.00,
             amount = 25,
@@ -2021,7 +2045,7 @@ Config.Products = {
             type = "item",
             slot = 11,
         },
-        [12] = {
+        [15] = {
             name = "maes",
             price = 2.20,
             amount = 25,
@@ -2029,7 +2053,7 @@ Config.Products = {
             type = "item",
             slot = 12,
         },
-        [13] = {
+        [16] = {
             name = "carapils",
             price = 1.50,
             amount = 25,
@@ -2037,7 +2061,7 @@ Config.Products = {
             type = "item",
             slot = 13,
         },
-        [14] = {
+        [17] = {
             name = "redbull",
             price = 2.50,
             amount = 25,
@@ -2045,7 +2069,7 @@ Config.Products = {
             type = "item",
             slot = 14,
         },
-        [15] = {
+        [18] = {
             name = "duvel",
             price = 3.00,
             amount = 25,
@@ -2053,7 +2077,7 @@ Config.Products = {
             type = "item",
             slot = 15,
         },
-        [16] = {
+        [19] = {
             name = "vodka_redbull",
             price = 10.00,
             amount = 25,
@@ -2061,7 +2085,7 @@ Config.Products = {
             type = "item",
             slot = 16,
         },
-        [17] = {
+        [20] = {
             name = "wine",
             price = 3.,
             amount = 25,
@@ -2069,7 +2093,7 @@ Config.Products = {
             type = "item",
             slot = 17,
         },
-        [18] = {
+        [21] = {
             name = "water_bottle",
             price = 20.00,
             amount = 25,
@@ -2077,7 +2101,7 @@ Config.Products = {
             type = "item",
             slot = 18,
         },
-        [19] = {
+        [22] = {
             name = "coffee'",
             price = 2.50,
             amount = 25,
@@ -2085,7 +2109,7 @@ Config.Products = {
             type = "item",
             slot = 19,
         },
-        [20] = {
+        [23] = {
             name = "mint_tea",
             price = 2.50,
             amount = 25,
@@ -2093,7 +2117,7 @@ Config.Products = {
             type = "item",
             slot = 20,
         },
-        [21] = {
+        [24] = {
             name = "green_tea",
             price = 2.50,
             amount = 25,
@@ -2101,7 +2125,7 @@ Config.Products = {
             type = "item",
             slot = 21,
         },
-        [22] = {
+        [25] = {
             name = "whiskey",
             price = 9.00,
             amount = 25,
@@ -2188,6 +2212,14 @@ Config.Products = {
             name = "beer",
             price = 2.50,
             amount = 25,
+        },
+        [11] = {
+            name = "chocomousse",
+            price = 3.5,
+            amount = 25,
+            info = {},
+            type = "item",
+            slot = 12,
         },
     },
     ["casino"] = {
@@ -2989,7 +3021,7 @@ Config.Locations = {
         ["radius"] = 2.0,
         ["targetIcon"] = "fas fa-leaf",
         ["targetLabel"] = "Open Leisure Shop",
-        ["products"] = Config.Products["cafe"],
+        ["products"] = Config.Products["snackbar"],
         ["showblip"] = true,
         ["blipsprite"] = 51,
         ["blipcolor"] = 0
