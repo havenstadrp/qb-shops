@@ -105,6 +105,36 @@ Config.Products = {
             type = "item",
             slot = 12,
         },
+        [13] = {
+            name = "redwoodcigs",
+            price = 200,
+            amount = 5000,
+            info = {
+                uses = 20
+            },
+            type = "item",
+            slot = 11,
+        },
+        [14] = {
+            name = "cardiaquecigs",
+            price = 200,
+            amount = 5000,
+            info = {
+                uses = 20
+            },
+            type = "item",
+            slot = 12,
+        },
+        [15] = {
+            name = "yukoncigs",
+            price = 200,
+            amount = 5000,
+            info = {
+                uses = 20
+            },
+            type = "item",
+            slot = 13,
+        },
 
     },
 
@@ -2990,7 +3020,7 @@ Config.Locations = {
         ["coords"] = vector4(148.9965, -234.633, 54.424, 341.8),
         ["ped"] = 'a_m_y_beach_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
-        ["radius"] = 2.0,
+        ["radius"] = 3.0,
         ["targetIcon"] = "fas fa-leaf",
         ["targetLabel"] = "Open Leisure Shop",
         ["products"] = Config.Products["applestore"],
