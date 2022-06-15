@@ -2,7 +2,7 @@ Config = {}
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true' -- Use qb-target interactions (don't change this, go to your server.cfg and add `setr UseTarget true` to use this and just that from true to false or the other way around)
 
 Config.SellCasinoChips = {
-    coords = vector4(950.37, 34.72, 71.87, 33.82),
+    coords = vector4(950.37, 34.72, 10.87, 33.82),
     radius = 1.5,
     ped = 's_m_y_casino_01'
 }
