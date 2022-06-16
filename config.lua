@@ -234,7 +234,7 @@ Config.Products = {
             slot = 28,
         },
         [29] = {
-            name = 'redwoodcigs',
+            name = 'pallmall',
             price = 13.00,
             amount = 5000,
             info = {
@@ -244,7 +244,7 @@ Config.Products = {
             slot = 29,
         },
         [30] = {
-            name = 'cardiaquecigs',
+            name = 'lm',
             price = 13.00,
             amount = 5000,
             info = {
@@ -254,7 +254,7 @@ Config.Products = {
             slot = 30,
         },
         [31] = {
-            name = 'yukoncigs',
+            name = 'jps',
             price = 13.00,
             amount = 5000,
             info = {
@@ -469,7 +469,7 @@ Config.Products = {
             slot = 14,
         },
         [15] = {
-            name = 'redwoodcigs',
+            name = 'pallmall',
             price = 1.50,
             amount = 5000,
             info = {},
@@ -477,7 +477,7 @@ Config.Products = {
             slot = 15,
         },
         [16] = {
-            name = 'cardiaquecigs',
+            name = 'lm',
             price = 1.20,
             amount = 5000,
             info = {},
@@ -4737,6 +4737,20 @@ Config.Locations = {
         ['blipcolor'] = 0
     },
 
+    ['ltdgasoline6'] = {
+        ['label'] = 'LTD Gasoline',
+        ['coords'] = vector4(-1422.37, -270.985, 46.281, 37.14),
+        ['ped'] = 'mp_m_shopkeep_01',
+        ['scenario'] = 'WORLD_HUMAN_STAND_MOBILE',
+        ['radius'] = 3.0,
+        ['targetIcon'] = 'fas fa-shopping-basket',
+        ['targetLabel'] = 'Open Shop',
+        ['products'] = Config.Products['normal'],
+        ['showblip'] = true,
+        ['blipsprite'] = 52,
+        ['blipcolor'] = 0
+    },
+
     -- Rob's Liquor Locations
     ['robsliquor'] = {
         ['label'] = "Rob's Liqour",
@@ -4746,7 +4760,7 @@ Config.Locations = {
         ['radius'] = 3.0,
         ['targetIcon'] = 'fas fa-shopping-basket',
         ['targetLabel'] = 'Open Shop',
-        ['products'] = Config.Products['liquor'],
+        ['products'] = Config.Products['liquorshop'],
         ['showblip'] = true,
         ['blipsprite'] = 52,
         ['blipcolor'] = 0
@@ -4760,7 +4774,7 @@ Config.Locations = {
         ['radius'] = 3.0,
         ['targetIcon'] = 'fas fa-shopping-basket',
         ['targetLabel'] = 'Open Shop',
-        ['products'] = Config.Products['liquor'],
+        ['products'] = Config.Products['liquorshop'],
         ['showblip'] = true,
         ['blipsprite'] = 52,
         ['blipcolor'] = 0
@@ -4774,7 +4788,7 @@ Config.Locations = {
         ['radius'] = 3.0,
         ['targetIcon'] = 'fas fa-shopping-basket',
         ['targetLabel'] = 'Open Shop',
-        ['products'] = Config.Products['liquor'],
+        ['products'] = Config.Products['liquorshop'],
         ['showblip'] = true,
         ['blipsprite'] = 52,
         ['blipcolor'] = 0
@@ -4788,7 +4802,7 @@ Config.Locations = {
         ['radius'] = 3.0,
         ['targetIcon'] = 'fas fa-shopping-basket',
         ['targetLabel'] = 'Open Shop',
-        ['products'] = Config.Products['liquor'],
+        ['products'] = Config.Products['liquorshop'],
         ['showblip'] = true,
         ['blipsprite'] = 52,
         ['blipcolor'] = 0
@@ -4802,7 +4816,7 @@ Config.Locations = {
         ['radius'] = 3.0,
         ['targetIcon'] = 'fas fa-shopping-basket',
         ['targetLabel'] = 'Open Shop',
-        ['products'] = Config.Products['liquor'],
+        ['products'] = Config.Products['liquorshop'],
         ['showblip'] = true,
         ['blipsprite'] = 52,
         ['blipcolor'] = 0
@@ -5615,19 +5629,31 @@ Config.Locations = {
         ['blipcolor'] = 0
     },
 
-    ['burgerstand1'] = {
-        ['label'] = 'Vettig & Prettig',
-        ['coords'] = vector3(-1695.06, -1071.73, 13.041),
+    ['delvecchio'] = {
+        ['label'] = 'Del Vecchio',
+        ['coords'] = vector4(-160.895, 6321.084, 31.586, 302.62),
         ['ped'] = 'a_m_y_beach_01',
         ['scenario'] = 'WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE',
         ['radius'] = 3.0,
         ['targetIcon'] = 'fas fa-leaf',
         ['targetLabel'] = 'Open Leisure Shop',
-        ['products'] = Config.Products['burgerstand'],
-        ['showblip'] = false,
+        ['products'] = Config.Products['liquorshop'],
+        ['showblip'] = true,
         ['blipsprite'] = 51,
         ['blipcolor'] = 0
     },
 
-
+    ['miller'] = {
+        ['label'] = 'Miller High Life',
+        ['coords'] = vector4(1947.395, 3844.680, 32.223, 220.1),
+        ['ped'] = 'a_m_y_beach_01',
+        ['scenario'] = 'WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE',
+        ['radius'] = 3.0,
+        ['targetIcon'] = 'fas fa-leaf',
+        ['targetLabel'] = 'Open Leisure Shop',
+        ['products'] = Config.Products['cafe'],
+        ['showblip'] = true,
+        ['blipsprite'] = 51,
+        ['blipcolor'] = 0
+    },
 }
