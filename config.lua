@@ -235,7 +235,7 @@ Config.Products = {
         },
         [29] = {
             name = 'pallmall',
-            price = 13.00,
+            price = 20.00,
             amount = 5000,
             info = {
                 uses = 20
@@ -245,7 +245,7 @@ Config.Products = {
         },
         [30] = {
             name = 'lm',
-            price = 13.00,
+            price = 20.00,
             amount = 5000,
             info = {
                 uses = 20
@@ -255,7 +255,7 @@ Config.Products = {
         },
         [31] = {
             name = 'jps',
-            price = 13.00,
+            price = 20.00,
             amount = 5000,
             info = {
                 uses = 20
@@ -470,17 +470,21 @@ Config.Products = {
         },
         [15] = {
             name = 'pallmall',
-            price = 1.50,
+            price = 20.00,
             amount = 5000,
-            info = {},
+            info = {
+                uses = 20
+            },
             type = 'item',
             slot = 15,
         },
         [16] = {
             name = 'lm',
-            price = 1.20,
+            price = 20.00,
             amount = 5000,
-            info = {},
+            info = {
+                uses = 20
+            },
             type = 'item',
             slot = 16,
         },
