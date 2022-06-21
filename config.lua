@@ -5796,7 +5796,7 @@ Config.Locations = {
 
     ["petshop"] = {
         ["label"] = "Pet Shop",
-        ["coords"] = vector4(-659.87, -936.46, 21.83, 130.04), --or vector4(-659.87, -936.46, 21.83, 130.04), --  for mlo https://www.gta5-mods.com/maps/
+        ["coords"] = vector4(563.5341, 2753.021, 42.877, 189.0), --or vector4(-659.87, -936.46, 21.83, 130.04), --  for mlo https://www.gta5-mods.com/maps/
         ["ped"] = 'S_M_M_StrVend_01',
         ["scenario"] = "WORLD_HUMAN_COP_IDLES",
         ["radius"] = 1.5,
