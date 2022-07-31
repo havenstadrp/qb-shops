@@ -27,20 +27,20 @@ QBCore.Functions.CreateCallback('qb-shops:server:getLicenseStatus', function(sou
 end)
 
 local ItemList = {
-    ["casinochips"] = 1,
+    ["casino_redchip"] = 1,
 }
 
 RegisterNetEvent('qb-shops:server:sellChips', function()
     local src = source
     local Player = QBCore.Functions.GetPlayer(src)
-    local xItem = Player.Functions.GetItemByName("casinochips")
+    local xItem = Player.Functions.GetItemByName("casino_redchip")
     if xItem ~= nil then
         for k in pairs(Player.PlayerData.items) do
             if Player.PlayerData.items[k] ~= nil then
                 if ItemList[Player.PlayerData.items[k].name] ~= nil then
                     local price = ItemList[Player.PlayerData.items[k].name] * Player.PlayerData.items[k].amount
                     Player.Functions.RemoveItem(Player.PlayerData.items[k].name, Player.PlayerData.items[k].amount, k)
-                    
+
                     Player.Functions.AddMoney("cash", price, "sold-casino-chips")
                     TriggerClientEvent('QBCore:Notify', src, "You sold your chips for $" .. price)
                     TriggerEvent("qb-log:server:CreateLog", "casino", "Chips", "blue", "**" .. GetPlayerName(src) .. "** got $" .. price .. " for selling the Chips")
